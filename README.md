@@ -18,7 +18,7 @@ The opioid crisis continues to take thousands of lives annually. Despite existin
 * Over 80,000 opioid overdose deaths in the US in 2022
 * Small towns and under-resourced communities lack predictive tools
 * Public health teams need better foresight to deploy resources early
-* I’m personally motivated by witnessing how hard-hit rural areas are by the opioid crisis
+* I’m personally motivated by witnessing how hard-hit rural areas are affected by the opioid crisis
 
 
 ## How is it used?
