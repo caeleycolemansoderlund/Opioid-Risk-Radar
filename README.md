@@ -31,14 +31,10 @@ Public health workers and local outreach organizations use the dashboard to:
 
 * Prioritize locations for distributing naloxone, educational outreach, and support services
 
-The dashboard runs weekly on fresh datasets and generates a risk heatmap.
+The dashboard runs weekly on fresh datasets and generates a risk heatmap
 
 
-
-![Opioid Risk Radar](Opioid%20Risk%20Radar.png)
-
-
-
+<img src="Opioid%20Risk%20Radar.png" width="400">
 
 
 ## Data sources and AI methods
@@ -60,6 +56,7 @@ AI methods:
 * Data cleaning and feature engineering using Python (pandas, scikit-lea
 
 
+
 ## Challenges
 
 * County-level data lacks fine granularity; neighborhood data may be unavailable
@@ -71,6 +68,7 @@ AI methods:
 * Not meant to predict individual overdose risk — only community-level trends
 
 
+
 ## What next?
 
 * Partner with a local health department to pilot the dashboard
@@ -80,6 +78,8 @@ AI methods:
 * Deploy mobile-friendly version for community use
 
 * Incorporate feedback tools for on-the-ground teams to annotate hotspot relevance
+
+  
 
 ## Acknowledgments
 
