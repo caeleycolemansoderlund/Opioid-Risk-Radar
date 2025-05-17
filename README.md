@@ -34,7 +34,11 @@ Public health workers and local outreach organizations use the dashboard to:
 The dashboard runs weekly on fresh datasets and generates a risk heatmap
 
 
+
+
 <img src="Opioid%20Risk%20Radar.png" width="400">
+
+
 
 
 ## Data sources and AI methods
