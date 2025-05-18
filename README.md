@@ -55,6 +55,7 @@ Public health workers and local outreach organizations use the dashboard to:
 * The dashboard runs weekly on fresh datasets and generates a risk heatmap
 
 
+---
 
 
 ## Data Sources
@@ -63,6 +64,7 @@ Public health workers and local outreach organizations use the dashboard to:
 * [CDC Opioid Prescription Data](https://www.cdc.gov/overdose-prevention/data-research/facts-stats/opioid-dispensing-rate-maps.html)
 * Local emergency services datasets (911 dispatch, EMS logs, if available)
   
+---
 
 
 ## Methods
@@ -97,6 +99,7 @@ model = LogisticRegression().fit(X, y)
 ```
 
 
+---
 
 
 ## Challenges
@@ -109,6 +112,7 @@ model = LogisticRegression().fit(X, y)
 
 * Not meant to predict individual overdose risk — only community-level trends
 
+---
 
 
 ## What next?
@@ -121,6 +125,7 @@ model = LogisticRegression().fit(X, y)
 
 * Incorporate feedback tools for on-the-ground teams to annotate hotspot relevance
 
+---
   
 
 ## Acknowledgments
