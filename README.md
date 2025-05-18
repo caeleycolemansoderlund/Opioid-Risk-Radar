@@ -15,7 +15,7 @@ Opioid Risk Radar is a community-focused AI dashboard that predicts local overdo
 
 The [opioid crisis](https://www.cdc.gov/overdose-prevention/about/index.html) continues to take thousands of lives annually. Despite existing efforts, localized spikes in overdoses often go unnoticed until it’s too late. Many communities lack tools to proactively detect and respond to growing risk areas.
 
-* Over 80,000 opioid overdose deaths in the US in 2022
+* Over [80,000](https://www.cdc.gov/overdose-prevention/about/understanding-the-opioid-overdose-epidemic.html) opioid overdose deaths in the US in 2022
 * Small towns and under-resourced communities lack predictive tools
 * Public health teams need better foresight to deploy resources early
 * I’m personally motivated by witnessing how hard-hit rural areas are affected by the opioid crisis
