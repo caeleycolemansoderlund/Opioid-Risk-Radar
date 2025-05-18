@@ -51,10 +51,12 @@ Data sources:
 
 AI methods:
 
-* Logistic Regression: Predicts overdose risk by area
-* K-means Clustering: Identifies emergent geographical overdose hotspots
-* NLP (future): For analyzing trends in local text data or social media
-* Data preprocessing: Handled with Python, using pandas, scikit-learn, and NumPy
+| Method | Description |
+| ----------- | ----------- |
+| Logistic Regression | Predicts overdose risk by area |
+| K-means Clustering | Identifies emergent geographical overdose hotspots |
+| NLP (future) | For analyzing trends in local text data or social media |
+| Data Preprocessing | Handled with Python, using pandas, scikit-learn, and NumPy |
 
 
 ## Example Code Sninppet
