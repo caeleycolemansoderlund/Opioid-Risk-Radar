@@ -7,7 +7,9 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 Final project for the Building AI course
 
-<img src="Opioid%20Risk%20Radar.png" width="250">
+<p align="center">
+  <img src="Opioid%20Risk%20Radar.png" width="250">
+</p>
 
 ## Summary
 
@@ -23,7 +25,9 @@ The [opioid crisis](https://www.cdc.gov/overdose-prevention/about/index.html) co
 * Public health teams need better foresight to deploy resources early
 * I’m personally motivated by witnessing how hard-hit rural areas are affected by the opioid crisis
 
-<img src="Opioid%20CDC.png" width="250" alt="Opioid overdose trends">
+<p align="center">
+  <img src="Opioid%20CDC.png" alt="Opioid overdose trends" width="400">
+</p>
 
 <p align="center"><sub>
   <strong>Description:</strong> A line chart depicting three distinct waves of opioid overdose deaths in the U.S. from 1999 to 2019, highlighting the rise in synthetic opioids.<br>
