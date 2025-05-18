@@ -59,9 +59,8 @@ AI methods:
 
 ## Example Code Sninppet
 
-### Example code snippet
+<pre><code>```python import pandas as pd from sklearn.linear_model import LogisticRegression # Load and filter data df = pd.read_csv("opioid_prescriptions.csv") df = df[df['Opioid_Prescribed'] == True] # Feature engineering df['Prescription_Count'] = df.groupby('ZIP')['Prescription_ID'].transform('count') # Modeling overdose risk X = df[['Prescription_Count', 'Previous_Overdoses', 'Population_Density']] y = df['Overdose_Flag'] model = LogisticRegression().fit(X, y) ```</code></pre>
 
-<pre> ### Example code snippet ```python import pandas as pd from sklearn.linear_model import LogisticRegression # Load and filter data df = pd.read_csv("opioid_prescriptions.csv") df = df[df['Opioid_Prescribed'] == True] # Feature engineering df['Prescription_Count'] = df.groupby('ZIP')['Prescription_ID'].transform('count') # Modeling overdose risk X = df[['Prescription_Count', 'Previous_Overdoses', 'Population_Density']] y = df['Overdose_Flag'] model = LogisticRegression().fit(X, y) ``` </pre>
 
 
 
