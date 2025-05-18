@@ -61,6 +61,15 @@ Public health workers and local outreach organizations use the dashboard to:
 * The dashboard runs weekly on fresh datasets and generates a risk heatmap
 
 
+Individual users use the dashboard to:
+
+* Receive local alerts
+* Locate the nearest rehabilitation centers and naloxone distribution
+* See which dates mobile clinics will be in their area
+* Find additional local support resources
+* Share their story, reach out for help, or ask questions using the anonymous blog
+* Identify local organizations who are currently in need of volunteers
+
 
 <p align="center">
   <img src="Opioid%20Risk%20Radar%20Infographic.png" alt="Opioid Risk Radar Infographic" width="700">
