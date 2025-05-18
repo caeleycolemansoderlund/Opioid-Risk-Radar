@@ -12,7 +12,7 @@ Final project for the Building AI course
 </p>
 <p align="center"><sub><em>Infographic created by the author using Canva.</em></sub></p>
 
-## Summary
+
 
 ## Summary
 
