@@ -45,19 +45,37 @@ The dashboard runs weekly on fresh datasets and generates a risk heatmap
 
 Data sources:
 
-* CDC Overdose Data
-
-* Medicare Opioid Prescribing Rates
-
-* Local emergency dispatch (if available)
+* [CDC Overdose Data](https://www.cdc.gov/drugoverdose/data/index.html)
+* [CMS Medicare Opioid Prescribing Data](https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers/opioid-prescribing)
+* Local emergency services datasets (911 dispatch, EMS logs, if available)
 
 AI methods:
 
-* Logistic regression for predicting overdose probability
+* Logistic Regression: Predicts overdose risk by area
+* K-means Clustering: Identifies emergent geographical overdose hotspots
+* NLP (future): For analyzing trends in local text data or social media
+* Data preprocessing: Handled with Python, using pandas, scikit-learn, and NumPy
 
-* K-means clustering to detect emerging geographic hotspots
 
-* Data cleaning and feature engineering using Python (pandas, scikit-lea
+## Example Code Sninppet
+
+'''
+# Example: Cleaning prescription data
+import pandas as pd
+from sklearn.linear_model import LogisticRegression
+
+# Load and filter data
+df = pd.read_csv("opioid_prescriptions.csv")
+df = df[df['Opioid_Prescribed'] == True]
+
+# Feature engineering
+df['Prescription_Count'] = df.groupby('ZIP')['Prescription_ID'].transform('count')
+
+# Modeling overdose risk
+X = df[['Prescription_Count', 'Previous_Overdoses', 'Population_Density']]
+y = df['Overdose_Flag']
+model = LogisticRegression().fit(X, y)
+'''
 
 
 
