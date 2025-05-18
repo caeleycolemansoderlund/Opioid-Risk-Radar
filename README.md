@@ -8,7 +8,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 Final project for the Building AI course
 
 <p align="center">
-  <img src="Opioid%20Risk%20Radar.png" width="300">
+  <img src="Opioid%20Risk%20Radar.png" width="400">
 </p>
 <p align="center"><sub><em>Infographic created by the author using Canva.</em></sub></p>
 
@@ -35,7 +35,7 @@ The [opioid crisis](https://www.cdc.gov/overdose-prevention/about/index.html) co
 
 
 <p align="center">
-  <img src="Opioid%20CDC.png" alt="Opioid overdose trends" width="500">
+  <img src="Opioid%20CDC.png" alt="Opioid overdose trends" width="700">
 </p>
 
 <p align="center"><sub>
@@ -71,8 +71,9 @@ Individual users use the dashboard to:
 * Identify local organizations who are currently in need of volunteers
 
 
+
 <p align="center">
-  <img src="Opioid%20Risk%20Radar%20Infographic.png" alt="Opioid Risk Radar Infographic" width="900">
+  <img src="Opioid%20Risk%20Radar%20Infographic.png" alt="Opioid Risk Radar Infographic" width="1100">
 </p>
 
 <p align="center"><sub><em>Infographic created by the author using Canva.</em></sub></p>
