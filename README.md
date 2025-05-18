@@ -11,6 +11,8 @@ Final project for the Building AI course
   <img src="Opioid%20Risk%20Radar.png" width="250">
 </p>
 
+<p align="center"><sub><em>Infographic created by the author using Canva.</em></sub></p>
+
 ## Summary
 
 ## Summary
@@ -64,6 +66,8 @@ Public health workers and local outreach organizations use the dashboard to:
 <p align="center">
   <img src="Opioid%20Risk%20Radar%20Infographic.png" alt="Opioid Risk Radar Infographic" width="700">
 </p>
+
+<p align="center"><sub><em>Infographic created by the author using Canva.</em></sub></p>
 
 ---
 
