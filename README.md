@@ -70,7 +70,7 @@ Individual users use the dashboard to:
 * Share their story, reach out for help, or ask questions using the anonymous blog
 * Identify local organizations who are currently in need of volunteers
 
-
+---
 
 <p align="center">
   <img src="Opioid%20Risk%20Radar%20Infographic.png" alt="Opioid Risk Radar Infographic" width="1100">
