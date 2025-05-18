@@ -45,8 +45,8 @@ Public health workers and local outreach organizations use the dashboard to:
 
 Data sources:
 
-* [CDC Overdose Data]([https://www.cdc.gov/drugoverdose/data/index.html](https://www.cdc.gov/nchs/fastats/drug-overdoses.htm))
-* [CDC Opioid Prescription Data]([https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers/opioid-prescribing](https://www.cdc.gov/overdose-prevention/data-research/facts-stats/opioid-dispensing-rate-maps.html))
+* [CDC Overdose Data](https://www.cdc.gov/drugoverdose/data/index.html)
+* [CDC Opioid Prescription Data](https://www.cdc.gov/overdose-prevention/data-research/facts-stats/opioid-dispensing-rate-maps.html)
 * Local emergency services datasets (911 dispatch, EMS logs, if available)
 
 AI methods:
