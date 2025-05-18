@@ -23,6 +23,15 @@ The [opioid crisis](https://www.cdc.gov/overdose-prevention/about/index.html) co
 * Public health teams need better foresight to deploy resources early
 * I’m personally motivated by witnessing how hard-hit rural areas are affected by the opioid crisis
 
+<img src="Opioid%20CDC.png" width="250" alt="Opioid overdose trends">
+
+<p align="center"><sub>
+  <strong>Description:</strong> A line chart depicting three distinct waves of opioid overdose deaths in the U.S. from 1999 to 2019, highlighting the rise in synthetic opioids.<br>
+  <strong>Source:</strong> CDC – <a href="https://www.cdc.gov/overdose-prevention/about/understanding-the-opioid-overdose-epidemic.html">Understanding the Opioid Overdose Epidemic</a><br>
+  <strong>License:</strong> Public Domain (U.S. Government Work)<br>
+  <strong>Attribution:</strong> Image courtesy of the Centers for Disease Control and Prevention (CDC)
+</sub></p>
+
 
 ## How is it used?
 
