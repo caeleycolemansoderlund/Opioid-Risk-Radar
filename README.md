@@ -59,7 +59,7 @@ AI methods:
 
 ## Example Code Sninppet
 
-'''
+'''python
 # Example: Cleaning prescription data
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
