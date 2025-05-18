@@ -31,7 +31,7 @@ Public health workers and local outreach organizations use the dashboard to:
 
 * Prioritize locations for distributing naloxone, educational outreach, and support services
 
-The dashboard runs weekly on fresh datasets and generates a risk heatmap
+* The dashboard runs weekly on fresh datasets and generates a risk heatmap
 
 
 
@@ -105,9 +105,9 @@ model = LogisticRegression().fit(X, y)
 
 ## Acknowledgments
 
-* Inspired by state-level opioid dashboards 
+* Inspired by state-level opioid dashboards, such as the ["Dose of Reality" Opioid Dashboard from the Washington State Department of Health Services](https://www.dhs.wisconsin.gov/opioids/dashboards.htm)
 
-* Data from CDC and CMS, used under public data guidelines
+* Data from [CDC](https://www.cdc.gov/overdose-prevention/about/understanding-the-opioid-overdose-epidemic.html), used under public data guidelines
 
-* Concept inspired by Elements of AI course 
+* Concept inspired by [Elements of AI course](https://buildingai.elementsofai.com/), presented by the [University of Helsinki and Open University](https://www.helsinki.fi/en/admissions-and-education/open-university/multidisciplinary-themed-modules/artificial-intelligence-collection)
 
