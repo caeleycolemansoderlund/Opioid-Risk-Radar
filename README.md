@@ -41,15 +41,14 @@ Public health workers and local outreach organizations use the dashboard to:
 
 
 
-## Data sources and AI methods
-
-Data sources:
+## Data Sources
 
 * [CDC Overdose Data](https://www.cdc.gov/drugoverdose/data/index.html)
 * [CDC Opioid Prescription Data](https://www.cdc.gov/overdose-prevention/data-research/facts-stats/opioid-dispensing-rate-maps.html)
 * Local emergency services datasets (911 dispatch, EMS logs, if available)
+  
 
-AI methods:
+## Methods:
 
 | Method | Description |
 | ----------- | ----------- |
@@ -57,6 +56,7 @@ AI methods:
 | K-means Clustering | Identifies emergent geographical overdose hotspots |
 | NLP (future) | For analyzing trends in local text data or social media |
 | Data Preprocessing | Handled with Python, using pandas, scikit-learn, and NumPy |
+
 
 
 ## Example Code Sninppet
