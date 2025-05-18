@@ -45,8 +45,8 @@ The dashboard runs weekly on fresh datasets and generates a risk heatmap
 
 Data sources:
 
-* [CDC Overdose Data](https://www.cdc.gov/drugoverdose/data/index.html)
-* [CMS Medicare Opioid Prescribing Data](https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers/opioid-prescribing)
+* [CDC Overdose Data]([https://www.cdc.gov/drugoverdose/data/index.html](https://www.cdc.gov/nchs/fastats/drug-overdoses.htm))
+* [CDC Opioid Prescription Data]([https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers/opioid-prescribing](https://www.cdc.gov/overdose-prevention/data-research/facts-stats/opioid-dispensing-rate-maps.html))
 * Local emergency services datasets (911 dispatch, EMS logs, if available)
 
 AI methods:
