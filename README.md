@@ -48,7 +48,8 @@ Public health workers and local outreach organizations use the dashboard to:
 * Local emergency services datasets (911 dispatch, EMS logs, if available)
   
 
-## Methods:
+
+## Methods
 
 | Method | Description |
 | ----------- | ----------- |
@@ -56,6 +57,7 @@ Public health workers and local outreach organizations use the dashboard to:
 | K-means Clustering | Identifies emergent geographical overdose hotspots |
 | NLP (future) | For analyzing trends in local text data or social media |
 | Data Preprocessing | Handled with Python, using pandas, scikit-learn, and NumPy |
+
 
 
 
