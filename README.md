@@ -24,7 +24,9 @@ The [opioid crisis](https://www.cdc.gov/overdose-prevention/about/index.html) co
 * Small towns and under-resourced communities lack predictive tools
 * Public health teams need better foresight to deploy resources early
 * I’m personally motivated by witnessing how hard-hit rural areas are affected by the opioid crisis
-  
+
+---
+
 
 <p align="center">
   <img src="Opioid%20CDC.png" alt="Opioid overdose trends" width="400">
@@ -37,6 +39,7 @@ The [opioid crisis](https://www.cdc.gov/overdose-prevention/about/index.html) co
   <strong>Attribution:</strong> Image courtesy of the Centers for Disease Control and Prevention (CDC)
 </sub></p>
 
+---
 
 
 ## How is it used?
