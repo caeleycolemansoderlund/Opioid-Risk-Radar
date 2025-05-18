@@ -59,8 +59,9 @@ AI methods:
 
 ## Example Code Sninppet
 
-'''python
-# Example: Cleaning prescription data
+### Example code snippet
+
+```python
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
 
@@ -75,7 +76,7 @@ df['Prescription_Count'] = df.groupby('ZIP')['Prescription_ID'].transform('count
 X = df[['Prescription_Count', 'Previous_Overdoses', 'Population_Density']]
 y = df['Overdose_Flag']
 model = LogisticRegression().fit(X, y)
-'''
+
 
 
 
