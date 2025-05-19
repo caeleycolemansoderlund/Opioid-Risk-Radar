@@ -38,10 +38,9 @@ The platform is built for dual use: public health agencies and outreach organiza
 <div align="center" style="border:1px solid #ccc; padding:15px; border-radius:6px; background:#f9f9f9; max-width:700px; margin:auto;">
 
 
-<strong>Estimated lethal dose <a href="https://www.bbc.com/news/articles/cvg93nn1e6go?utm_"></strong>: as low as 2 milligrams (mg)</a><br>
-<strong>Total fentanyl seized</strong>: 25,000 lbs = <strong>11,339,809,250 mg</strong><br>
+<strong>☠️Estimated lethal dose <a href="https://www.bbc.com/news/articles/cvg93nn1e6go?utm_"></strong>: as low as 2 milligrams (mg)</a><br>
+<strong>🚔Total fentanyl seized</strong>: 25,000 lbs = <strong>11,339,809,250 mg</strong><br>
 <strong>Potential lethal doses</strong>: <strong>5,669,904,625</strong><br><br>
-
 ⚠️ That’s theoretically enough to kill over <strong>5.6 billion people</strong> — more than 16× the U.S. population.
 </div>
 
