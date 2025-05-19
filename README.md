@@ -5,7 +5,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Opioid Risk Radar
 
-Final project for the Building AI course
+Final project for the Building AI course<br>
 Reaktor, University of Helsinki, & Open University
 
 <p align="center">
