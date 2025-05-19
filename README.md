@@ -29,13 +29,13 @@ The goal of Opioid Risk Radar is to serve not only as a **tool for early interve
 
 ## Background
 
-* The [**opioid crisis**](https://www.cdc.gov/overdose-prevention/about/index.html) remains one of the most devastating public health emergencies in the United States, claiming over [**80,000**](https://www.cdc.gov/overdose-prevention/about/understanding-the-opioid-overdose-epidemic.html) lives in 2022 alone. 
+* The [**opioid crisis**](https://www.cdc.gov/overdose-prevention/about/index.html) remains one of the most devastating public health emergencies in the United States, claiming over **80,000** lives in 2022 alone, according to the [CDC](https://www.cdc.gov/overdose-prevention/about/understanding-the-opioid-overdose-epidemic.html). 
 
-* [**Fentanyl**](https://www.dea.gov/resources/facts-about-fentanyl), the illegally-made synthetic opioid, is responsible for [**90%**](https://www.cdc.gov/overdose-prevention/about/index.html?utm_) of all opioid-related deaths, and [**68%**](https://www.cdc.gov/overdose-prevention/about/index.html?utm_) of all drug overdose deaths in the US, according to the CDC.
+* **Fentanyl**, the illegally-made synthetic opioid, is responsible for **90%** of all opioid-related deaths, and **68%** of all drug overdose deaths in the US, according to the [CDC](https://www.cdc.gov/overdose-prevention/about/index.html?utm_) and the [DEA](https://www.dea.gov/resources/facts-about-fentanyl).
 
-* [**Chemical precursors for fentanyl manufacturing**](https://www.brookings.edu/articles/the-fentanyl-pipeline-and-chinas-role-in-the-us-opioid-crisis/?utm_) are produced in China and shipped to Mexico, where they are synthesized into fentanyl and distributed by cartels. According to the BBC, this supply route is responsible for [**98%**](https://www.bbc.com/news/articles/cvg93nn1e6go?utm_) of all fentanyl entering the United States.
+* As the [Brookings Insititute](https://www.brookings.edu/articles/the-fentanyl-pipeline-and-chinas-role-in-the-us-opioid-crisis/?utm_) explains, **chemical precursors for fentanyl manufacturing** are produced in China and shipped to Mexico, where they are synthesized into fentanyl and distributed by cartels. According to the [BBC](https://www.bbc.com/news/articles/cvg93nn1e6go?utm_), this supply route is responsible for **98%** of all fentanyl entering the United States.
 
-* In 2023, [**over 25,000 pounds**](https://www.bbc.com/news/articles/cvg93nn1e6go?utm_) of fentanyl was seized at the US-Mexico border. Given the drug’s extreme potency, even a small amount can be deadly:
+* In 2023, **over 25,000 pounds** of fentanyl was seized at the US-Mexico border, according the the [BBC](https://www.bbc.com/news/articles/cvg93nn1e6go?utm_). Given the drug’s extreme potency, even a small amount can be deadly:
 
 <div align="center" style="border:1px solid #ccc; padding:15px; border-radius:6px; background:#f9f9f9; max-width:700px; margin:auto;">
 
@@ -62,7 +62,7 @@ The goal of Opioid Risk Radar is to serve not only as a **tool for early interve
 </p>
 
 <p align="center"><sub>
-  <strong>Description:</strong> A line chart depicting three distinct waves of opioid overdose deaths in the U.S. from 1999 to 2019.<br>
+  <strong>Description:</strong> A line chart depicting three distinct waves of opioid overdose deaths in the U.S. from 1999 to 2022.<br>
   <strong>Source:</strong> CDC – <a href="https://www.cdc.gov/overdose-prevention/about/understanding-the-opioid-overdose-epidemic.html">Understanding the Opioid Overdose Epidemic</a><br>
   <strong>License:</strong> Public Domain (U.S. Government Work)<br>
   <strong>Attribution:</strong> Image courtesy of the Centers for Disease Control and Prevention (CDC)
