@@ -156,9 +156,13 @@ model = LogisticRegression().fit(X, y)
 
 ## Acknowledgments
 
-* Inspired by state-level opioid dashboards, such as the ["Dose of Reality" Opioid Dashboard from the Washington State Department of Health Services](https://www.dhs.wisconsin.gov/opioids/dashboards.htm)
+* Project initiation inspired by [Elements of AI course](https://buildingai.elementsofai.com/), presented by the [University of Helsinki and Open University](https://www.helsinki.fi/en/admissions-and-education/open-university/multidisciplinary-themed-modules/artificial-intelligence-collection)
+  
+* Project concept inspired by state-level opioid dashboards, such as the ["Dose of Reality" Opioid Dashboard from the Washington State Department of Health Services](https://www.dhs.wisconsin.gov/opioids/dashboards.htm)
 
 * Data from [CDC](https://www.cdc.gov/overdose-prevention/about/understanding-the-opioid-overdose-epidemic.html), used under public data guidelines
 
-* Concept inspired by [Elements of AI course](https://buildingai.elementsofai.com/), presented by the [University of Helsinki and Open University](https://www.helsinki.fi/en/admissions-and-education/open-university/multidisciplinary-themed-modules/artificial-intelligence-collection)
+* Images created using [Canva](https://www.canva.com/)
+
+
 
