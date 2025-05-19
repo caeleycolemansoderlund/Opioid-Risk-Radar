@@ -35,7 +35,7 @@ The goal of Opioid Risk Radar is to serve not only as a **tool for early interve
 
 * As the [Brookings Insititute](https://www.brookings.edu/articles/the-fentanyl-pipeline-and-chinas-role-in-the-us-opioid-crisis/?utm_) explains, **chemical precursors for fentanyl manufacturing** are produced in China and shipped to Mexico, where they are synthesized into fentanyl and distributed by cartels. According to the [BBC](https://www.bbc.com/news/articles/cvg93nn1e6go?utm_), this supply route is responsible for **98%** of all fentanyl entering the United States.
 
-* In 2023, **27,000 pounds** of fentanyl was seized at the US-Mexico border, according to the [U.S. Customs and Border Protection](https://www.cbp.gov/newsroom/stats/drug-seizure-statistics) and as reported by [the BBC]((https://www.bbc.com/news/articles/cvg93nn1e6go?utm_). Given the drug’s extreme potency, even a small amount can be deadly:
+* In 2023, **27,000 pounds** of fentanyl was seized at the US-Mexico border, according to the [U.S. Customs and Border Protection](https://www.cbp.gov/newsroom/stats/drug-seizure-statistics) and as reported by [the BBC](https://www.bbc.com/news/articles/cvg93nn1e6go?utm_). Given the drug’s extreme potency, even a small amount can be deadly:
 
 <div align="center" style="border:1px solid #ccc; padding:15px; border-radius:6px; background:#f9f9f9; max-width:700px; margin:auto;">
 
