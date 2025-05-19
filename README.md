@@ -6,6 +6,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 # Opioid Risk Radar
 
 Final project for the Building AI course
+Reaktor, University of Helsinki, & Open University
 
 <p align="center">
   <img src="Opioid%20Risk%20Radar.png" width="400">
@@ -137,7 +138,7 @@ Individual users use the dashboard to:
 ---
 
 
-## Example Code Sninppet
+## Example Code Snippet
 
 ```python
 import pandas as pd
@@ -194,7 +195,7 @@ model = LogisticRegression().fit(X, y)
 
 * Project initiation inspired by [Elements of AI: Building AI course](https://buildingai.elementsofai.com/), presented by the [University of Helsinki and Open University](https://www.helsinki.fi/en/admissions-and-education/open-university/multidisciplinary-themed-modules/artificial-intelligence-collection)
 
-* Prohect concept motivated by a firsthand view of how the opioid epidemic silently devastates rural families and communities.
+* Project concept motivated by a firsthand view of how the opioid epidemic silently devastates rural families and communities.
   
 * Dashboard idea inspired by state-level opioid dashboards, such as the ["Dose of Reality" Opioid Dashboard from the Washington State Department of Health Services](https://www.dhs.wisconsin.gov/opioids/dashboards.htm)
 
