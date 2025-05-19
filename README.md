@@ -45,7 +45,6 @@ The platform is built for dual use: public health agencies and outreach organiza
 </div><br>
 
 
-
 * Localized spikes in overdose rates, often triggered by sudden surges in fentanyl-laced substances, frequently go undetected until it’s too late. 
 
 * Many small towns and under-resourced communities lack real-time surveillance tools or predictive models.
