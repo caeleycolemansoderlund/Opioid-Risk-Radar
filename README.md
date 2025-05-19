@@ -16,7 +16,9 @@ Final project for the Building AI course
 
 ## Summary
 
-Opioid Risk Radar is a community-focused AI dashboard that predicts overdose risk at the ZIP code or county level using real-time public health, prescription, and emergency response data. By combining logistic regression and clustering algorithms, the tool flags statistically significant spikes in opioid-related incidents and visualizes emerging hotspots on an interactive heatmap. This enables public health officials and outreach teams to deploy resources like naloxone, mobile clinics, or education efforts earlier—potentially saving lives before a crisis escalates.
+Opioid Risk Radar is a community-focused AI dashboard designed to support both public health professionals and individuals affected by the opioid crisis. It predicts overdose risk at the ZIP code or county level by analyzing real-time public health, prescription, and emergency response data. By combining logistic regression and clustering algorithms, the tool detects statistically significant spikes in opioid-related incidents and visualizes emerging hotspots on an interactive heatmap.
+
+The platform is built for dual use: public health agencies and outreach organizations can use it to monitor trends, identify rising-risk areas, and strategically deploy resources like naloxone, mobile clinics, and educational outreach. At the same time, individual users can access localized alerts, find nearby support services, and connect with others through anonymous tools. The goal is for Opioid Risk Radar to act as both a tool for early intervention, as well as support community resilience.
 
 
 ---
