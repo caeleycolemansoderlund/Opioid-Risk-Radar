@@ -17,9 +17,9 @@ Reaktor, University of Helsinki, & Open University
 
 ## Summary
 
-Opioid Risk Radar is a community-focused AI dashboard designed to support both public health professionals and individuals affected by the opioid crisis. It predicts overdose risk at the ZIP code or county level by analyzing real-time public health, prescription, and emergency response data. By combining logistic regression and clustering algorithms, the tool detects statistically significant spikes in opioid-related incidents and visualizes emerging hotspots on an interactive heatmap.
+**Opioid Risk Radar** is a community-focused AI dashboard designed to support both public health professionals and individuals affected by the opioid crisis. It predicts overdose risk at the ZIP code or county level by analyzing real-time public health, prescription, and emergency response data. By combining logistic regression and clustering algorithms, the tool detects statistically significant spikes in opioid-related incidents and visualizes emerging hotspots on an interactive heatmap.
 
-The platform is built for dual use: public health agencies and outreach organizations can use it to monitor trends, identify rising-risk areas, and strategically deploy resources like naloxone, mobile clinics, and educational outreach. At the same time, individual users can access localized alerts, find nearby support services, and connect with others through anonymous tools. The goal of Opioid Risk Radar is to serve not only as a tool for early intervention, but also as a platform that strengthens community resilience.
+The platform is built for dual use: public health agencies and outreach organizations can use it to monitor trends, identify rising-risk areas, and strategically deploy resources like naloxone, mobile clinics, and educational outreach. At the same time, individual users can access localized alerts, find nearby support services, and connect with others through anonymous tools. The goal of Opioid Risk Radar is to serve not only as a **tool for early intervention**, but also as a **platform that strengthens community resilience**.
 
 
 ---
@@ -29,7 +29,7 @@ The platform is built for dual use: public health agencies and outreach organiza
 
 * The [opioid crisis](https://www.cdc.gov/overdose-prevention/about/index.html) remains one of the most devastating public health emergencies in the United States, claiming over [**80,000**](https://www.cdc.gov/overdose-prevention/about/understanding-the-opioid-overdose-epidemic.html) lives in 2022 alone. 
 
-* **Fentanyl**, the illegally-made synthetic opioid, is responsible for [**90%**](https://www.cdc.gov/overdose-prevention/about/index.html?utm_) of all opioid-related deaths, and [**68%**](https://www.cdc.gov/overdose-prevention/about/index.html?utm_) of all drug overdose deaths in the US, according to the CDC.
+* Fentanyl, the illegally-made synthetic opioid, is responsible for [**90%**](https://www.cdc.gov/overdose-prevention/about/index.html?utm_) of all opioid-related deaths, and [**68%**](https://www.cdc.gov/overdose-prevention/about/index.html?utm_) of all drug overdose deaths in the US, according to the CDC.
 
 * [Chemical precursors for fentanyl manufacturing](https://www.brookings.edu/articles/the-fentanyl-pipeline-and-chinas-role-in-the-us-opioid-crisis/?utm_) are produced in China and shipped to Mexico, where they are synthesized into fentanyl and distributed by cartels. According to the BBC, this supply route is responsible for [**98%**](https://www.bbc.com/news/articles/cvg93nn1e6go?utm_) of all fentanyl entering the United States.
 
@@ -45,11 +45,11 @@ The platform is built for dual use: public health agencies and outreach organiza
 </div><br>
 
 
-* Localized spikes in overdose rates, often triggered by sudden surges in fentanyl-laced substances, frequently go **undetected until it’s too late**. 
+* Localized spikes in overdose rates, often triggered by sudden surges in fentanyl-laced substances, frequently go undetected until it’s too late. 
 
-* Many **small towns and under-resourced communities** lack real-time surveillance tools or predictive models.
+* Many small towns and under-resourced communities lack real-time surveillance tools or predictive models.
 
-* As a result, public health teams are often left **reacting to crises rather than preventing them**. To enhance prevention capabilities, public health teams need better foresight to deploy resources early.
+* As a result, public health teams are often left reacting to crises rather than preventing them. To enhance prevention capabilities, public health teams need better foresight to deploy resources early.
   
 
 ---
@@ -79,7 +79,7 @@ The platform is built for dual use: public health agencies and outreach organiza
 
 * Prioritize locations for distributing naloxone, educational outreach, and support services
 
-* The dashboard runs weekly on fresh datasets and generates a risk heatmap<br>
+* The dashboard runs weekly on fresh datasets and generates a risk heatmap<br><br>
 
 
 
@@ -192,7 +192,7 @@ model = LogisticRegression().fit(X, y)
 
 ## Acknowledgments
 
-* Project initiation inspired by [**Elements of AI: Building AI course**](https://buildingai.elementsofai.com/), presented by the [University of Helsinki and Open University](https://www.helsinki.fi/en/admissions-and-education/open-university/multidisciplinary-themed-modules/artificial-intelligence-collection)
+* Project initiation inspired by [Elements of AI: Building AI course](https://buildingai.elementsofai.com/), presented by the [University of Helsinki and Open University](https://www.helsinki.fi/en/admissions-and-education/open-university/multidisciplinary-themed-modules/artificial-intelligence-collection)
 
 * Project concept motivated by a firsthand view of how the opioid epidemic silently devastates rural families and communities.
   
