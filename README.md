@@ -27,13 +27,13 @@ The platform is built for dual use: public health agencies and outreach organiza
 
 ## Background
 
-* The [opioid crisis](https://www.cdc.gov/overdose-prevention/about/index.html) remains one of the most devastating public health emergencies in the United States, claiming over [80,000](https://www.cdc.gov/overdose-prevention/about/understanding-the-opioid-overdose-epidemic.html) lives in 2022 alone. 
+* The [opioid crisis](https://www.cdc.gov/overdose-prevention/about/index.html) remains one of the most devastating public health emergencies in the United States, claiming over [**80,000**](https://www.cdc.gov/overdose-prevention/about/understanding-the-opioid-overdose-epidemic.html) lives in 2022 alone. 
 
-* Fentanyl, the illegally-made synthetic opioid, is responsible for [90%](https://www.cdc.gov/overdose-prevention/about/index.html?utm_) of all opioid-related deaths, and [68%](https://www.cdc.gov/overdose-prevention/about/index.html?utm_) of all drug overdose deaths in the US.
+* **Fentanyl**, the illegally-made synthetic opioid, is responsible for [**90%**](https://www.cdc.gov/overdose-prevention/about/index.html?utm_) of all opioid-related deaths, and [**68%**](https://www.cdc.gov/overdose-prevention/about/index.html?utm_) of all drug overdose deaths in the US, according to the CDC.
 
-* [Precursors for fentanyl production](https://www.brookings.edu/articles/the-fentanyl-pipeline-and-chinas-role-in-the-us-opioid-crisis/?utm_) are produced in China and shipped to Mexico, where they are made into fentanyl and distributed by cartels. According to the BBC, this route is how [98%](https://www.bbc.com/news/articles/cvg93nn1e6go?utm_) of all fentanyl makes it into the US.
+* [Chemical precursors for fentanyl manufacturing](https://www.brookings.edu/articles/the-fentanyl-pipeline-and-chinas-role-in-the-us-opioid-crisis/?utm_) are produced in China and shipped to Mexico, where they are synthesized into fentanyl and distributed by cartels. According to the BBC, this supply route is responsible for [**98%**](https://www.bbc.com/news/articles/cvg93nn1e6go?utm_) of all fentanyl entering the United States.
 
-* In 2023, [over 25,000 pounds](https://www.bbc.com/news/articles/cvg93nn1e6go?utm_) of fentanyl was seized at the US-Mexico border. Given the drug’s extreme potency, even a small amount can be deadly:
+* In 2023, [**over 25,000 pounds**](https://www.bbc.com/news/articles/cvg93nn1e6go?utm_) of fentanyl was seized at the US-Mexico border. Given the drug’s extreme potency, even a small amount can be deadly:
 
 <div align="center" style="border:1px solid #ccc; padding:15px; border-radius:6px; background:#f9f9f9; max-width:700px; margin:auto;">
 
@@ -45,11 +45,11 @@ The platform is built for dual use: public health agencies and outreach organiza
 </div><br>
 
 
-* Localized spikes in overdose rates, often triggered by sudden surges in fentanyl-laced substances, frequently go undetected until it’s too late. 
+* Localized spikes in overdose rates, often triggered by sudden surges in fentanyl-laced substances, frequently go **undetected until it’s too late**. 
 
-* Many small towns and under-resourced communities lack real-time surveillance tools or predictive models.
+* Many **small towns and under-resourced communities** lack real-time surveillance tools or predictive models.
 
-* As a result, public health teams are often left reacting to crises rather than preventing them. To enhance prevention capabilities, public health teams need better foresight to deploy resources early.
+* As a result, public health teams are often left **reacting to crises rather than preventing them**. To enhance prevention capabilities, public health teams need better foresight to deploy resources early.
   
 
 ---
@@ -71,7 +71,7 @@ The platform is built for dual use: public health agencies and outreach organiza
 
 ## How is it used?
 
-Public health workers and local outreach organizations use the dashboard to:
+**Public health workers and local outreach organizations use the dashboard to:**
 
 * Monitor overdose trends by ZIP code or county
 
@@ -83,7 +83,7 @@ Public health workers and local outreach organizations use the dashboard to:
 
 
 
-Individual users use the dashboard to:
+**Individual users use the dashboard to:**
 
 * Receive local alerts
   
@@ -192,7 +192,7 @@ model = LogisticRegression().fit(X, y)
 
 ## Acknowledgments
 
-* Project initiation inspired by [Elements of AI: Building AI course](https://buildingai.elementsofai.com/), presented by the [University of Helsinki and Open University](https://www.helsinki.fi/en/admissions-and-education/open-university/multidisciplinary-themed-modules/artificial-intelligence-collection)
+* Project initiation inspired by [**Elements of AI: Building AI course**](https://buildingai.elementsofai.com/), presented by the [University of Helsinki and Open University](https://www.helsinki.fi/en/admissions-and-education/open-university/multidisciplinary-themed-modules/artificial-intelligence-collection)
 
 * Project concept motivated by a firsthand view of how the opioid epidemic silently devastates rural families and communities.
   
