@@ -26,12 +26,15 @@ The platform is built for dual use: public health agencies and outreach organiza
 
 ## Background
 
-The [opioid crisis](https://www.cdc.gov/overdose-prevention/about/index.html) continues to take thousands of lives annually. Despite existing efforts, localized spikes in overdoses often go unnoticed until it’s too late. Many communities lack tools to proactively detect and respond to growing risk areas.
+* The [opioid crisis](https://www.cdc.gov/overdose-prevention/about/index.html) remains one of the most devastating public health emergencies in the United States, claiming over [80,000](https://www.cdc.gov/overdose-prevention/about/understanding-the-opioid-overdose-epidemic.html) lives in 2022 alone. 
 
-* Over [80,000](https://www.cdc.gov/overdose-prevention/about/understanding-the-opioid-overdose-epidemic.html) opioid overdose deaths in the US in 2022
-* Small towns and under-resourced communities lack predictive tools
-* Public health teams need better foresight to deploy resources early
-* I’m personally motivated by witnessing how hard-hit rural areas are affected by the opioid crisis
+* Localized spikes in overdose rates, often triggered by sudden surges in fentanyl-laced substances, frequently go undetected until it’s too late. 
+
+* Many small towns and under-resourced communities lack real-time surveillance tools or predictive models.
+
+* As a result, public health teams are often left reacting to crises rather than preventing them. To enhance prevention capabilities, public health teams need better foresight to deploy resources early.
+  
+* I’m personally motivated by witnessing how hard-hit rural areas are affected by the opioid crisis.
 
 ---
 
