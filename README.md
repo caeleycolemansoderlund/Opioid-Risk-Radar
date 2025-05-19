@@ -35,15 +35,15 @@ The goal of Opioid Risk Radar is to serve not only as a **tool for early interve
 
 * As the [Brookings Insititute](https://www.brookings.edu/articles/the-fentanyl-pipeline-and-chinas-role-in-the-us-opioid-crisis/?utm_) explains, **chemical precursors for fentanyl manufacturing** are produced in China and shipped to Mexico, where they are synthesized into fentanyl and distributed by cartels. According to the [BBC](https://www.bbc.com/news/articles/cvg93nn1e6go?utm_), this supply route is responsible for **98%** of all fentanyl entering the United States.
 
-* In 2023, **over 25,000 pounds** of fentanyl was seized at the US-Mexico border, according the the [BBC](https://www.bbc.com/news/articles/cvg93nn1e6go?utm_). Given the drug’s extreme potency, even a small amount can be deadly:
+* In 2023, **27,000 pounds** of fentanyl was seized at the US-Mexico border, according to the [U.S. Customs and Border Protection](https://www.cbp.gov/newsroom/stats/drug-seizure-statistics) and as reported by [the BBC]((https://www.bbc.com/news/articles/cvg93nn1e6go?utm_). Given the drug’s extreme potency, even a small amount can be deadly:
 
 <div align="center" style="border:1px solid #ccc; padding:15px; border-radius:6px; background:#f9f9f9; max-width:700px; margin:auto;">
 
 
 <strong>☠️Potentially lethal dose <a href="https://www.bbc.com/news/articles/cvg93nn1e6go?utm_"></strong>: as little as **2 mg**, according to the [DEA](https://www.dea.gov/resources/facts-about-fentanyl) </a><br>
-<strong>🚔Total fentanyl seized</strong>: 25,000 lbs = <strong>11,339,809,250 mg</strong><br>
-<strong>🔢Potential lethal doses</strong>: 11,339,809,250 mg ÷ 2 mg = <strong>5,669,904,625</strong><br>
-⚠️ That’s theoretically enough to kill over <strong>5.6 billion people</strong> — more than 16× the U.S. population.
+<strong>🚔Total fentanyl seized</strong>: 27,000 lbs = <strong>12,246,993,990 mg</strong><br>
+<strong>🔢Potential lethal doses</strong>: 11,339,809,250 mg ÷ 2 mg = <strong>6,123,496,995</strong><br>
+⚠️ That’s theoretically enough to kill over <strong>6 billion people</strong> — more than 18× the U.S. population.
 </div><br>
 
 
