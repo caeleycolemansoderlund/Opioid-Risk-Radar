@@ -138,6 +138,10 @@ model = LogisticRegression().fit(X, y)
 
 * Not meant to predict individual overdose risk — only community-level trends
 
+* Prevent misuse of the data for punitive or discriminatory policies
+
+* Uphold data privacy
+
 ---
 
 
