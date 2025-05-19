@@ -41,8 +41,6 @@ The platform is built for dual use: public health agencies and outreach organiza
 
         > ⚠️ Theoretically, that’s enough to kill over **5.6 billion people** — more than 16 times the entire U.S. population.
         
-
-
   
 * Localized spikes in overdose rates, often triggered by sudden surges in fentanyl-laced substances, frequently go undetected until it’s too late. 
 
