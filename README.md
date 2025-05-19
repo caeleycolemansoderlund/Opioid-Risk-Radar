@@ -43,7 +43,7 @@ The goal of Opioid Risk Radar is to serve not only as a **tool for early interve
 <strong>☠️Potentially lethal dose <a href="https://www.bbc.com/news/articles/cvg93nn1e6go?utm_"></strong>: as little as **2 mg**, according to the [DEA](https://www.dea.gov/resources/facts-about-fentanyl) </a><br>
 <strong>🚔Total fentanyl seized</strong>: 27,000 lbs = <strong>12,246,993,990 mg</strong><br>
 <strong>🔢Potential lethal doses</strong>: 11,339,809,250 mg ÷ 2 mg = <strong>6,123,496,995</strong><br>
-⚠️ That’s theoretically enough to kill over <strong>6 billion people</strong> — more than 18× the U.S. population.
+⚠️ That’s theoretically enough to kill over <strong>6.1 billion people</strong> — more than 18× the U.S. population.
 </div><br>
 
 
