@@ -28,7 +28,7 @@ The platform is built for dual use: public health agencies and outreach organiza
 
 * The [opioid crisis](https://www.cdc.gov/overdose-prevention/about/index.html) remains one of the most devastating public health emergencies in the United States, claiming over [80,000](https://www.cdc.gov/overdose-prevention/about/understanding-the-opioid-overdose-epidemic.html) lives in 2022 alone. 
 
-* Fentanyl, the illegally-made synthetic opioid, is responsible for [90%](https://www.cdc.gov/overdose-prevention/about/index.html?utm_) of all opioid deaths, and [68%](https://www.cdc.gov/overdose-prevention/about/index.html?utm_) of all overdose deaths.
+* Fentanyl, the illegally-made synthetic opioid, is responsible for [90%](https://www.cdc.gov/overdose-prevention/about/index.html?utm_) of all opioid-related deaths, and [68%](https://www.cdc.gov/overdose-prevention/about/index.html?utm_) of all drug overdose deaths in the US.
 
 * [Precursors for fentanyl production](https://www.brookings.edu/articles/the-fentanyl-pipeline-and-chinas-role-in-the-us-opioid-crisis/?utm_) are produced in China and shipped to Mexico, where they are made into fentanyl and distributed by cartels. According to the BBC, this route is how [98%](https://www.bbc.com/news/articles/cvg93nn1e6go?utm_) of all fentanyl makes it into the US.
 
