@@ -94,13 +94,14 @@ Individual users use the dashboard to:
 
 ## Methods
 
+
 | Method | Description |
 | ----------- | ----------- |
 | Logistic Regression | Predicts overdose risk by ZIP code or county using supervised learning. Implemented in Python with scikit-learn. |
 | K-means Clustering | Detects emerging geographical overdose hotspots by grouping areas with similar risk patterns. |
 | NLP  | Future addition to analyze real-time trends from social media or local news using spaCy or transformer-based models. |
 | Data Preprocessing | Performed using Python libraries such as pandas, NumPy, and scikit-learn to clean and engineer features from public health and emergency datasets. |
-| Interactive Dashboard (planned) | A prototype will be built using Streamlit or Plotly Dash to visualize risk levels and provide alerts. |
+| Interactive Dashboard   | A prototype will be built using Streamlit or Plotly Dash to visualize risk levels and provide alerts. |
 | Geospatial Mapping | Risk heatmaps and clustering results will be displayed using libraries like Plotly or Folium. |
 | Automation | Weekly ingestion of public datasets will be automated via APIs or batch uploads. |
 
