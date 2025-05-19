@@ -42,7 +42,7 @@ The platform is built for dual use: public health agencies and outreach organiza
 <strong>🚔Total fentanyl seized</strong>: 25,000 lbs = <strong>11,339,809,250 mg</strong><br>
 <strong>🔢Potential lethal doses</strong>: 11,339,809,250 / 2 = <strong>5,669,904,625</strong><br>
 ⚠️ That’s theoretically enough to kill over <strong>5.6 billion people</strong> — more than 16× the U.S. population.
-</div><br><br>
+</div><br>
 
 
 
