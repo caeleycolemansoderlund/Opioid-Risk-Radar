@@ -40,7 +40,7 @@ The platform is built for dual use: public health agencies and outreach organiza
 >   - **Total fentanyl seized**: 25,000 lbs = **11,339,809,250 mg**
 >   - **Potential lethal doses**: **5,669,904,625**
 > 
->       ⚠️ Theoretically, that’s enough to kill over 5.6 billion people — more than 16 times the entire U.S. population.
+>       ⚠️ Theoretically, that’s enough to kill over 5.6 billion people — more than 16 times the entire U.S. population.<br>
 
 
 
@@ -80,7 +80,7 @@ Public health workers and local outreach organizations use the dashboard to:
 
 * Prioritize locations for distributing naloxone, educational outreach, and support services
 
-* The dashboard runs weekly on fresh datasets and generates a risk heatmap
+* The dashboard runs weekly on fresh datasets and generates a risk heatmap<br>
 
 
 
