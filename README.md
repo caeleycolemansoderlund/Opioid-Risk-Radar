@@ -83,13 +83,19 @@ Public health workers and local outreach organizations use the dashboard to:
 * The dashboard runs weekly on fresh datasets and generates a risk heatmap
 
 
+
 Individual users use the dashboard to:
 
 * Receive local alerts
+  
 * Locate the nearest rehabilitation centers and naloxone distribution
+  
 * See which dates mobile clinics will be in their area
+  
 * Find additional local support resources
+  
 * Share their story, reach out for help, or ask questions using the anonymous blog
+  
 * Identify local organizations who are currently in need of volunteers
 
 ---
@@ -106,7 +112,9 @@ Individual users use the dashboard to:
 ## Data Sources
 
 * [CDC Overdose Data](https://www.cdc.gov/drugoverdose/data/index.html)
+  
 * [CDC Opioid Prescription Data](https://www.cdc.gov/overdose-prevention/data-research/facts-stats/opioid-dispensing-rate-maps.html)
+
 * Local emergency services datasets (911 dispatch, EMS logs, if available)
   
 ---
