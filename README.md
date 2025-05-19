@@ -35,12 +35,24 @@ The platform is built for dual use: public health agencies and outreach organiza
 
 * In 2023, [over 25,000 pounds](https://www.bbc.com/news/articles/cvg93nn1e6go?utm_) of fentanyl was seized at the US-Mexico border. Given the drug’s extreme potency, even a small amount can be deadly:
 
+<div align="center" style="border:1px solid #ccc; padding:15px; border-radius:6px; background:#f9f9f9; max-width:700px; margin:auto;">
+
+<strong>🚨 Fentanyl Seizure Impact</strong><br><br>
+
+- <strong>Estimated lethal dose</strong>: as low as <a href="https://www.bbc.com/news/articles/cvg93nn1e6go?utm_">2 milligrams (mg)</a><br>
+- <strong>Total fentanyl seized</strong>: 25,000 lbs = <strong>11,339,809,250 mg</strong><br>
+- <strong>Potential lethal doses</strong>: <strong>5,669,904,625</strong><br><br>
+
+⚠️ That’s theoretically enough to kill over <strong>5.6 billion people</strong> — more than 16× the U.S. population.
+</div>
+
+
     > 
     >   - **Estimated lethal dose**: as low as [2 milligrams (mg)](https://www.bbc.com/news/articles/cvg93nn1e6go?utm_)
     >   - **Total fentanyl seized**: 25,000 lbs = **11,339,809,250 mg**
     >   - **Potential lethal doses**: **5,669,904,625**
     > 
-    >       ⚠️ Theoretically, that’s enough to kill over 5.6 billion people — more than 16 times the entire U.S. population.<br>
+    >       ⚠️ Theoretically, that’s enough to kill over 5.6 billion people — more than 16 times the entire U.S. population.
 
 
 
