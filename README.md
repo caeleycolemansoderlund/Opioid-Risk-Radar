@@ -51,7 +51,6 @@ The platform is built for dual use: public health agencies and outreach organiza
 
 * As a result, public health teams are often left reacting to crises rather than preventing them. To enhance prevention capabilities, public health teams need better foresight to deploy resources early.
   
-* I’m personally motivated by witnessing how hard-hit rural areas are affected by the opioid crisis.
 
 ---
 
@@ -194,8 +193,10 @@ model = LogisticRegression().fit(X, y)
 ## Acknowledgments
 
 * Project initiation inspired by [Elements of AI: Building AI course](https://buildingai.elementsofai.com/), presented by the [University of Helsinki and Open University](https://www.helsinki.fi/en/admissions-and-education/open-university/multidisciplinary-themed-modules/artificial-intelligence-collection)
+
+* Prohect concept motivated by a firsthand view of how the opioid epidemic silently devastates rural families and communities.
   
-* Project concept inspired by state-level opioid dashboards, such as the ["Dose of Reality" Opioid Dashboard from the Washington State Department of Health Services](https://www.dhs.wisconsin.gov/opioids/dashboards.htm)
+* Dashboard idea inspired by state-level opioid dashboards, such as the ["Dose of Reality" Opioid Dashboard from the Washington State Department of Health Services](https://www.dhs.wisconsin.gov/opioids/dashboards.htm)
 
 * Data from [CDC](https://www.cdc.gov/overdose-prevention/about/understanding-the-opioid-overdose-epidemic.html), used under public data guidelines
 
