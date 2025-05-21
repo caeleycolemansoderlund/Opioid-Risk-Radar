@@ -1,0 +1,666 @@
+County Opioid Dispensing Rates
+FullGeoName,YEAR,STATE_NAME,STATE_ABBREV,COUNTY_NAME,STATE_COUNTY_FIP_U,opioid_dispensing_rate,Opioid Dispensing Rate (per 100 persons)
+"VA, King And Queen",2022,Virginia,VA,King and Queen County,51097,Data unavailable,Data unavailable
+"VA, King And Queen",2023,Virginia,VA,King and Queen County,51097,Data unavailable,Data unavailable
+"VA, Manassas Park City",2019,Virginia,VA,Manassas Park city,51685,Data unavailable,Data unavailable
+"VA, Manassas Park City",2020,Virginia,VA,Manassas Park city,51685,Data unavailable,Data unavailable
+"VA, Manassas Park City",2021,Virginia,VA,Manassas Park city,51685,Data unavailable,Data unavailable
+"VA, Manassas Park City",2022,Virginia,VA,Manassas Park city,51685,Data unavailable,Data unavailable
+"VA, Manassas Park City",2023,Virginia,VA,Manassas Park city,51685,Data unavailable,Data unavailable
+"VA, Norton City",2019,Virginia,VA,Norton city,51720,569.1,>49.8
+"VA, Norton City",2020,Virginia,VA,Norton city,51720,441,>49.8
+"VA, Norton City",2023,Virginia,VA,Norton city,51720,403.9,>49.8
+"VA, Salem City",2021,Virginia,VA,Salem city,51775,396.4,>49.8
+"VA, Norton City",2021,Virginia,VA,Norton city,51720,390.7,>49.8
+"VA, Salem City",2019,Virginia,VA,Salem city,51775,390.2,>49.8
+"VA, Salem City",2022,Virginia,VA,Salem city,51775,379.3,>49.8
+"VA, Salem City",2020,Virginia,VA,Salem city,51775,377.7,>49.8
+"VA, Norton City",2022,Virginia,VA,Norton city,51720,374.9,>49.8
+"VA, Martinsville City",2019,Virginia,VA,Martinsville city,51690,374.8,>49.8
+"VA, Salem City",2023,Virginia,VA,Salem city,51775,342.2,>49.8
+"VA, Martinsville City",2020,Virginia,VA,Martinsville city,51690,315.7,>49.8
+"VA, Martinsville City",2021,Virginia,VA,Martinsville city,51690,302.4,>49.8
+"VA, Winchester City",2023,Virginia,VA,Winchester city,51840,236,>49.8
+"VA, Martinsville City",2022,Virginia,VA,Martinsville city,51690,234.3,>49.8
+"VA, Fredericksburg City",2019,Virginia,VA,Fredericksburg city,51630,233.5,>49.8
+"VA, Fredericksburg City",2020,Virginia,VA,Fredericksburg city,51630,232.7,>49.8
+"VA, Winchester City",2019,Virginia,VA,Winchester city,51840,227.9,>49.8
+"VA, Fredericksburg City",2021,Virginia,VA,Fredericksburg city,51630,226.7,>49.8
+"VA, Fredericksburg City",2022,Virginia,VA,Fredericksburg city,51630,218.9,>49.8
+"VA, Winchester City",2020,Virginia,VA,Winchester city,51840,218.1,>49.8
+"VA, Winchester City",2022,Virginia,VA,Winchester city,51840,217.5,>49.8
+"VA, Winchester City",2021,Virginia,VA,Winchester city,51840,204.9,>49.8
+"VA, Fredericksburg City",2023,Virginia,VA,Fredericksburg city,51630,193.6,>49.8
+"VA, Martinsville City",2023,Virginia,VA,Martinsville city,51690,176.5,>49.8
+"VA, Scott",2019,Virginia,VA,Scott County,51169,169.4,>49.8
+"VA, Charlottesville City",2019,Virginia,VA,Charlottesville city,51540,163.4,>49.8
+"VA, Galax City",2019,Virginia,VA,Galax city,51640,161.3,>49.8
+"VA, Charlottesville City",2020,Virginia,VA,Charlottesville city,51540,156,>49.8
+"VA, Scott",2021,Virginia,VA,Scott County,51169,153.1,>49.8
+"VA, Charlottesville City",2021,Virginia,VA,Charlottesville city,51540,151.5,>49.8
+"VA, Scott",2020,Virginia,VA,Scott County,51169,143.2,>49.8
+"VA, Scott",2022,Virginia,VA,Scott County,51169,140.4,>49.8
+"VA, Scott",2023,Virginia,VA,Scott County,51169,139.6,>49.8
+"VA, Charlottesville City",2022,Virginia,VA,Charlottesville city,51540,135.6,>49.8
+"VA, Emporia City",2019,Virginia,VA,Emporia city,51595,125.7,>49.8
+"VA, Charlottesville City",2023,Virginia,VA,Charlottesville city,51540,125,>49.8
+"VA, Emporia City",2022,Virginia,VA,Emporia city,51595,124.1,>49.8
+"VA, Emporia City",2021,Virginia,VA,Emporia city,51595,122.2,>49.8
+"VA, Emporia City",2023,Virginia,VA,Emporia city,51595,118.9,>49.8
+"VA, Lexington City",2019,Virginia,VA,Lexington city,51678,116.8,>49.8
+"VA, Covington City",2020,Virginia,VA,Covington city,51580,115.4,>49.8
+"VA, Emporia City",2020,Virginia,VA,Emporia city,51595,115.1,>49.8
+"VA, Lexington City",2020,Virginia,VA,Lexington city,51678,112.9,>49.8
+"VA, Covington City",2021,Virginia,VA,Covington city,51580,111.2,>49.8
+"VA, Lexington City",2021,Virginia,VA,Lexington city,51678,110,>49.8
+"VA, Lynchburg City",2022,Virginia,VA,Lynchburg city,51680,108.7,>49.8
+"VA, Lynchburg City",2020,Virginia,VA,Lynchburg city,51680,108.2,>49.8
+"VA, Galax City",2023,Virginia,VA,Galax city,51640,105.9,>49.8
+"VA, Lynchburg City",2021,Virginia,VA,Lynchburg city,51680,105.3,>49.8
+"VA, Lynchburg City",2019,Virginia,VA,Lynchburg city,51680,104.8,>49.8
+"VA, Covington City",2023,Virginia,VA,Covington city,51580,102,>49.8
+"VA, Lynchburg City",2023,Virginia,VA,Lynchburg city,51680,101.7,>49.8
+"VA, Lexington City",2022,Virginia,VA,Lexington city,51678,99.8,>49.8
+"VA, Dickenson",2019,Virginia,VA,Dickenson County,51051,98,>49.8
+"VA, Lexington City",2023,Virginia,VA,Lexington city,51678,97.6,>49.8
+"VA, Bland",2023,Virginia,VA,Bland County,51021,96.7,>49.8
+"VA, Covington City",2022,Virginia,VA,Covington city,51580,94.8,>49.8
+"VA, Bland",2019,Virginia,VA,Bland County,51021,90.8,>49.8
+"VA, Galax City",2020,Virginia,VA,Galax city,51640,90.8,>49.8
+"VA, Harrisonburg City",2019,Virginia,VA,Harrisonburg city,51660,90.4,>49.8
+"VA, Dickenson",2022,Virginia,VA,Dickenson County,51051,89.5,>49.8
+"VA, Roanoke City",2021,Virginia,VA,Roanoke city,51770,88.9,>49.8
+"VA, Roanoke City",2020,Virginia,VA,Roanoke city,51770,88.7,>49.8
+"VA, Harrisonburg City",2023,Virginia,VA,Harrisonburg city,51660,87.7,>49.8
+"VA, Roanoke",2019,Virginia,VA,Roanoke County,51161,86.8,>49.8
+"VA, Bland",2022,Virginia,VA,Bland County,51021,86.3,>49.8
+"VA, Harrisonburg City",2021,Virginia,VA,Harrisonburg city,51660,85.2,>49.8
+"VA, Manassas City",2019,Virginia,VA,Manassas city,51683,84.9,>49.8
+"VA, Roanoke City",2019,Virginia,VA,Roanoke city,51770,84.9,>49.8
+"VA, Bland",2020,Virginia,VA,Bland County,51021,83.9,>49.8
+"VA, Dickenson",2021,Virginia,VA,Dickenson County,51051,83,>49.8
+"VA, Colonial Heights Cit",2019,Virginia,VA,Colonial Heights city,51570,82.7,>49.8
+"VA, Danville City",2019,Virginia,VA,Danville city,51590,80.8,>49.8
+"VA, Harrisonburg City",2020,Virginia,VA,Harrisonburg city,51660,80.8,>49.8
+"VA, Harrisonburg City",2022,Virginia,VA,Harrisonburg city,51660,80.7,>49.8
+"VA, Dickenson",2020,Virginia,VA,Dickenson County,51051,80,>49.8
+"VA, Essex",2019,Virginia,VA,Essex County,51057,79.2,>49.8
+"VA, Wise",2021,Virginia,VA,Wise County,51195,79.1,>49.8
+"VA, Roanoke City",2022,Virginia,VA,Roanoke city,51770,79.1,>49.8
+"VA, Tazewell",2019,Virginia,VA,Tazewell County,51185,79,>49.8
+"VA, Wise",2023,Virginia,VA,Wise County,51195,77.7,>49.8
+"VA, Bland",2021,Virginia,VA,Bland County,51021,77.6,>49.8
+"VA, Buchanan",2023,Virginia,VA,Buchanan County,51027,77.4,>49.8
+"VA, Galax City",2021,Virginia,VA,Galax city,51640,76.4,>49.8
+"VA, Wise",2022,Virginia,VA,Wise County,51195,76.1,>49.8
+"VA, Galax City",2022,Virginia,VA,Galax city,51640,76.1,>49.8
+"VA, Roanoke",2023,Virginia,VA,Roanoke County,51161,75.7,>49.8
+"VA, Buchanan",2022,Virginia,VA,Buchanan County,51027,75.5,>49.8
+"VA, Manassas City",2021,Virginia,VA,Manassas city,51683,75.1,>49.8
+"VA, Northampton",2019,Virginia,VA,Northampton County,51131,74,>49.8
+"VA, Roanoke",2020,Virginia,VA,Roanoke County,51161,73.1,>49.8
+"VA, Buchanan",2020,Virginia,VA,Buchanan County,51027,72.7,>49.8
+"VA, Roanoke",2022,Virginia,VA,Roanoke County,51161,72.3,>49.8
+"VA, Franklin City",2019,Virginia,VA,Franklin city,51620,72.2,>49.8
+"VA, Norfolk City",2019,Virginia,VA,Norfolk city,51710,72.1,>49.8
+"VA, Buchanan",2021,Virginia,VA,Buchanan County,51027,71.7,>49.8
+"VA, Norfolk City",2020,Virginia,VA,Norfolk city,51710,71.2,>49.8
+"VA, Manassas City",2022,Virginia,VA,Manassas city,51683,70.9,>49.8
+"VA, Tazewell",2020,Virginia,VA,Tazewell County,51185,70.8,>49.8
+"VA, Manassas City",2020,Virginia,VA,Manassas city,51683,70.6,>49.8
+"VA, Dickenson",2023,Virginia,VA,Dickenson County,51051,69.9,>49.8
+"VA, Fairfax City",2022,Virginia,VA,Fairfax city,51600,69.3,>49.8
+"VA, Colonial Heights Cit",2020,Virginia,VA,Colonial Heights city,51570,69.1,>49.8
+"VA, Russell",2020,Virginia,VA,Russell County,51167,68.9,>49.8
+"VA, Roanoke",2021,Virginia,VA,Roanoke County,51161,68.7,>49.8
+"VA, Manassas City",2023,Virginia,VA,Manassas city,51683,68,>49.8
+"VA, Roanoke City",2023,Virginia,VA,Roanoke city,51770,68,>49.8
+"VA, Fairfax City",2023,Virginia,VA,Fairfax city,51600,67.2,>49.8
+"VA, Fairfax City",2019,Virginia,VA,Fairfax city,51600,67,>49.8
+"VA, Norfolk City",2021,Virginia,VA,Norfolk city,51710,67,>49.8
+"VA, Buchanan",2019,Virginia,VA,Buchanan County,51027,66.7,>49.8
+"VA, Tazewell",2022,Virginia,VA,Tazewell County,51185,66.2,>49.8
+"VA, Wise",2020,Virginia,VA,Wise County,51195,66.2,>49.8
+"VA, Norfolk City",2023,Virginia,VA,Norfolk city,51710,65.4,>49.8
+"VA, Tazewell",2023,Virginia,VA,Tazewell County,51185,64.7,>49.8
+"VA, Lee",2019,Virginia,VA,Lee County,51105,64.4,>49.8
+"VA, Danville City",2020,Virginia,VA,Danville city,51590,63.8,>49.8
+"VA, Wise",2019,Virginia,VA,Wise County,51195,63.1,>49.8
+"VA, Northampton",2020,Virginia,VA,Northampton County,51131,63,>49.8
+"VA, Fairfax City",2021,Virginia,VA,Fairfax city,51600,63,>49.8
+"VA, Essex",2020,Virginia,VA,Essex County,51057,62.7,>49.8
+"VA, Alleghany",2019,Virginia,VA,Alleghany County,51005,62.6,>49.8
+"VA, Norfolk City",2022,Virginia,VA,Norfolk city,51710,62.6,>49.8
+"VA, Northampton",2021,Virginia,VA,Northampton County,51131,61.6,>49.8
+"VA, Newport News City",2019,Virginia,VA,Newport News city,51700,61.5,>49.8
+"VA, Danville City",2021,Virginia,VA,Danville city,51590,61,>49.8
+"VA, Tazewell",2021,Virginia,VA,Tazewell County,51185,60.5,>49.8
+"VA, Russell",2021,Virginia,VA,Russell County,51167,60.3,>49.8
+"VA, Petersburg City",2019,Virginia,VA,Petersburg city,51730,60.2,>49.8
+"VA, Richmond City",2021,Virginia,VA,Richmond city,51760,60.2,>49.8
+"VA, Lee",2020,Virginia,VA,Lee County,51105,59.9,>49.8
+"VA, Northampton",2022,Virginia,VA,Northampton County,51131,59.9,>49.8
+"VA, Portsmouth City",2019,Virginia,VA,Portsmouth city,51740,59.6,>49.8
+"VA, Richmond City",2019,Virginia,VA,Richmond city,51760,58.8,>49.8
+"VA, Northampton",2023,Virginia,VA,Northampton County,51131,58.7,>49.8
+"VA, Lee",2022,Virginia,VA,Lee County,51105,58.1,>49.8
+"VA, Washington",2020,Virginia,VA,Washington County,51191,58,>49.8
+"VA, Washington",2019,Virginia,VA,Washington County,51191,57.7,>49.8
+"VA, Russell",2019,Virginia,VA,Russell County,51167,57.3,>49.8
+"VA, Colonial Heights Cit",2021,Virginia,VA,Colonial Heights city,51570,57.3,>49.8
+"VA, Richmond City",2022,Virginia,VA,Richmond city,51760,57.3,>49.8
+"VA, Hopewell City",2019,Virginia,VA,Hopewell city,51670,57.2,>49.8
+"VA, Lee",2021,Virginia,VA,Lee County,51105,57.1,>49.8
+"VA, Russell",2022,Virginia,VA,Russell County,51167,57,>49.8
+"VA, Richmond City",2020,Virginia,VA,Richmond city,51760,56.7,>49.8
+"VA, Montgomery",2019,Virginia,VA,Montgomery County,51121,56.4,>49.8
+"VA, Fairfax City",2020,Virginia,VA,Fairfax city,51600,56.4,>49.8
+"VA, Franklin City",2020,Virginia,VA,Franklin city,51620,54.8,>49.8
+"VA, Newport News City",2020,Virginia,VA,Newport News city,51700,54.7,>49.8
+"VA, Staunton City",2019,Virginia,VA,Staunton city,51790,54.5,>49.8
+"VA, Franklin City",2022,Virginia,VA,Franklin city,51620,54.4,>49.8
+"VA, Washington",2023,Virginia,VA,Washington County,51191,54.3,>49.8
+"VA, Franklin City",2021,Virginia,VA,Franklin city,51620,54.3,>49.8
+"VA, Richmond City",2023,Virginia,VA,Richmond city,51760,54.2,>49.8
+"VA, Lee",2023,Virginia,VA,Lee County,51105,54.1,>49.8
+"VA, Washington",2022,Virginia,VA,Washington County,51191,54,>49.8
+"VA, Covington City",2019,Virginia,VA,Covington city,51580,54,>49.8
+"VA, Staunton City",2020,Virginia,VA,Staunton city,51790,53.8,>49.8
+"VA, Wythe",2021,Virginia,VA,Wythe County,51197,53.6,>49.8
+"VA, Bristol City",2023,Virginia,VA,Bristol city,51520,53.2,>49.8
+"VA, Danville City",2022,Virginia,VA,Danville city,51590,52.7,>49.8
+"VA, Wythe",2020,Virginia,VA,Wythe County,51197,52.5,>49.8
+"VA, Washington",2021,Virginia,VA,Washington County,51191,51.8,>49.8
+"VA, Radford City",2020,Virginia,VA,Radford city,51750,51.5,>49.8
+"VA, Henrico",2019,Virginia,VA,Henrico County,51087,51.4,>49.8
+"VA, Newport News City",2021,Virginia,VA,Newport News city,51700,51.4,>49.8
+"VA, Franklin City",2023,Virginia,VA,Franklin city,51620,50.9,>49.8
+"VA, Danville City",2023,Virginia,VA,Danville city,51590,50.7,>49.8
+"VA, Hanover",2019,Virginia,VA,Hanover County,51085,50.1,>49.8
+"VA, Amherst",2022,Virginia,VA,Amherst County,51009,49.7,31.4 - 49.8
+"VA, Montgomery",2021,Virginia,VA,Montgomery County,51121,49.5,31.4 - 49.8
+"VA, Waynesboro City",2019,Virginia,VA,Waynesboro city,51820,49.3,31.4 - 49.8
+"VA, Montgomery",2020,Virginia,VA,Montgomery County,51121,49,31.4 - 49.8
+"VA, Carroll",2020,Virginia,VA,Carroll County,51035,48.7,31.4 - 49.8
+"VA, Mecklenburg",2020,Virginia,VA,Mecklenburg County,51117,48.6,31.4 - 49.8
+"VA, Colonial Heights Cit",2022,Virginia,VA,Colonial Heights city,51570,48.6,31.4 - 49.8
+"VA, Alleghany",2020,Virginia,VA,Alleghany County,51005,48.5,31.4 - 49.8
+"VA, Carroll",2019,Virginia,VA,Carroll County,51035,48.4,31.4 - 49.8
+"VA, Mecklenburg",2019,Virginia,VA,Mecklenburg County,51117,48.4,31.4 - 49.8
+"VA, Newport News City",2022,Virginia,VA,Newport News city,51700,48.2,31.4 - 49.8
+"VA, Hopewell City",2020,Virginia,VA,Hopewell city,51670,47.9,31.4 - 49.8
+"VA, Newport News City",2023,Virginia,VA,Newport News city,51700,47.7,31.4 - 49.8
+"VA, Colonial Heights Cit",2023,Virginia,VA,Colonial Heights city,51570,47,31.4 - 49.8
+"VA, Russell",2023,Virginia,VA,Russell County,51167,46.9,31.4 - 49.8
+"VA, Albemarle",2019,Virginia,VA,Albemarle County,51003,46.6,31.4 - 49.8
+"VA, Henrico",2020,Virginia,VA,Henrico County,51087,46.6,31.4 - 49.8
+"VA, Radford City",2021,Virginia,VA,Radford city,51750,46.6,31.4 - 49.8
+"VA, Hanover",2020,Virginia,VA,Hanover County,51085,46.4,31.4 - 49.8
+"VA, Portsmouth City",2021,Virginia,VA,Portsmouth city,51740,46.4,31.4 - 49.8
+"VA, Waynesboro City",2020,Virginia,VA,Waynesboro city,51820,46.4,31.4 - 49.8
+"VA, Portsmouth City",2022,Virginia,VA,Portsmouth city,51740,46.2,31.4 - 49.8
+"VA, Suffolk City",2021,Virginia,VA,Suffolk city,51800,46,31.4 - 49.8
+"VA, Suffolk City",2019,Virginia,VA,Suffolk city,51800,45.9,31.4 - 49.8
+"VA, Portsmouth City",2020,Virginia,VA,Portsmouth city,51740,45.7,31.4 - 49.8
+"VA, Pulaski",2019,Virginia,VA,Pulaski County,51155,45.5,31.4 - 49.8
+"VA, Mecklenburg",2021,Virginia,VA,Mecklenburg County,51117,45.3,31.4 - 49.8
+"VA, Henrico",2021,Virginia,VA,Henrico County,51087,45.1,31.4 - 49.8
+"VA, Augusta",2019,Virginia,VA,Augusta County,51015,45,31.4 - 49.8
+"VA, Staunton City",2021,Virginia,VA,Staunton city,51790,45,31.4 - 49.8
+"VA, Petersburg City",2020,Virginia,VA,Petersburg city,51730,44.4,31.4 - 49.8
+"VA, Virginia Beach City",2019,Virginia,VA,Virginia Beach city,51810,44.3,31.4 - 49.8
+"VA, Radford City",2019,Virginia,VA,Radford city,51750,44.1,31.4 - 49.8
+"VA, Lancaster",2019,Virginia,VA,Lancaster County,51103,44,31.4 - 49.8
+"VA, Patrick",2019,Virginia,VA,Patrick County,51141,43.7,31.4 - 49.8
+"VA, Suffolk City",2020,Virginia,VA,Suffolk city,51800,43.4,31.4 - 49.8
+"VA, Hanover",2021,Virginia,VA,Hanover County,51085,43.3,31.4 - 49.8
+"VA, Amherst",2023,Virginia,VA,Amherst County,51009,43.2,31.4 - 49.8
+"VA, Waynesboro City",2021,Virginia,VA,Waynesboro city,51820,42.9,31.4 - 49.8
+"VA, Augusta",2020,Virginia,VA,Augusta County,51015,42.7,31.4 - 49.8
+"VA, Henrico",2022,Virginia,VA,Henrico County,51087,42.6,31.4 - 49.8
+"VA, Radford City",2023,Virginia,VA,Radford city,51750,42.6,31.4 - 49.8
+"VA, Portsmouth City",2023,Virginia,VA,Portsmouth city,51740,42.5,31.4 - 49.8
+"VA, Wythe",2019,Virginia,VA,Wythe County,51197,42.3,31.4 - 49.8
+"VA, Carroll",2021,Virginia,VA,Carroll County,51035,42.1,31.4 - 49.8
+"VA, Hanover",2022,Virginia,VA,Hanover County,51085,42.1,31.4 - 49.8
+"VA, Staunton City",2022,Virginia,VA,Staunton city,51790,42.1,31.4 - 49.8
+"VA, James City",2019,Virginia,VA,James City County,51095,42,31.4 - 49.8
+"VA, Mecklenburg",2022,Virginia,VA,Mecklenburg County,51117,41.6,31.4 - 49.8
+"VA, Lancaster",2021,Virginia,VA,Lancaster County,51103,41.5,31.4 - 49.8
+"VA, Lancaster",2020,Virginia,VA,Lancaster County,51103,41.4,31.4 - 49.8
+"VA, Smyth",2019,Virginia,VA,Smyth County,51173,41.4,31.4 - 49.8
+"VA, Hopewell City",2021,Virginia,VA,Hopewell city,51670,41.1,31.4 - 49.8
+"VA, Suffolk City",2022,Virginia,VA,Suffolk city,51800,41.1,31.4 - 49.8
+"VA, Chesapeake City",2019,Virginia,VA,Chesapeake city,51550,40.9,31.4 - 49.8
+"VA, Henrico",2023,Virginia,VA,Henrico County,51087,40.8,31.4 - 49.8
+"VA, Page",2019,Virginia,VA,Page County,51139,40.7,31.4 - 49.8
+"VA, Appomattox",2019,Virginia,VA,Appomattox County,51011,40.5,31.4 - 49.8
+"VA, Mecklenburg",2023,Virginia,VA,Mecklenburg County,51117,40.5,31.4 - 49.8
+"VA, Lancaster",2022,Virginia,VA,Lancaster County,51103,40.3,31.4 - 49.8
+"VA, Montgomery",2022,Virginia,VA,Montgomery County,51121,40.3,31.4 - 49.8
+"VA, Patrick",2020,Virginia,VA,Patrick County,51141,40.2,31.4 - 49.8
+"VA, Radford City",2022,Virginia,VA,Radford city,51750,40.2,31.4 - 49.8
+"VA, Smyth",2021,Virginia,VA,Smyth County,51173,40.1,31.4 - 49.8
+"VA, Patrick",2021,Virginia,VA,Patrick County,51141,40,31.4 - 49.8
+"VA, Hanover",2023,Virginia,VA,Hanover County,51085,39.7,31.4 - 49.8
+"VA, Gloucester",2022,Virginia,VA,Gloucester County,51073,39.5,31.4 - 49.8
+"VA, Alleghany",2021,Virginia,VA,Alleghany County,51005,39.4,31.4 - 49.8
+"VA, Staunton City",2023,Virginia,VA,Staunton city,51790,39.3,31.4 - 49.8
+"VA, Gloucester",2023,Virginia,VA,Gloucester County,51073,39.1,31.4 - 49.8
+"VA, Petersburg City",2021,Virginia,VA,Petersburg city,51730,39,31.4 - 49.8
+"VA, James City",2020,Virginia,VA,James City County,51095,38.8,31.4 - 49.8
+"VA, Chesterfield",2019,Virginia,VA,Chesterfield County,51041,38.7,31.4 - 49.8
+"VA, Smyth",2020,Virginia,VA,Smyth County,51173,38.4,31.4 - 49.8
+"VA, Petersburg City",2022,Virginia,VA,Petersburg city,51730,38.4,31.4 - 49.8
+"VA, Montgomery",2023,Virginia,VA,Montgomery County,51121,37.9,31.4 - 49.8
+"VA, Virginia Beach City",2020,Virginia,VA,Virginia Beach city,51810,37.9,31.4 - 49.8
+"VA, Chesapeake City",2020,Virginia,VA,Chesapeake city,51550,37.8,31.4 - 49.8
+"VA, Hopewell City",2022,Virginia,VA,Hopewell city,51670,37.8,31.4 - 49.8
+"VA, Gloucester",2021,Virginia,VA,Gloucester County,51073,37.3,31.4 - 49.8
+"VA, Patrick",2023,Virginia,VA,Patrick County,51141,37.2,31.4 - 49.8
+"VA, Smyth",2022,Virginia,VA,Smyth County,51173,36.9,31.4 - 49.8
+"VA, Augusta",2021,Virginia,VA,Augusta County,51015,36.8,31.4 - 49.8
+"VA, Patrick",2022,Virginia,VA,Patrick County,51141,36.8,31.4 - 49.8
+"VA, Waynesboro City",2022,Virginia,VA,Waynesboro city,51820,36.8,31.4 - 49.8
+"VA, Lancaster",2023,Virginia,VA,Lancaster County,51103,36.7,31.4 - 49.8
+"VA, Albemarle",2020,Virginia,VA,Albemarle County,51003,36.6,31.4 - 49.8
+"VA, Chesapeake City",2021,Virginia,VA,Chesapeake city,51550,36.4,31.4 - 49.8
+"VA, Page",2020,Virginia,VA,Page County,51139,36.3,31.4 - 49.8
+"VA, Gloucester",2020,Virginia,VA,Gloucester County,51073,36.1,31.4 - 49.8
+"VA, Chesterfield",2020,Virginia,VA,Chesterfield County,51041,36,31.4 - 49.8
+"VA, Pulaski",2020,Virginia,VA,Pulaski County,51155,35.6,31.4 - 49.8
+"VA, Alleghany",2022,Virginia,VA,Alleghany County,51005,35.4,31.4 - 49.8
+"VA, Chesterfield",2021,Virginia,VA,Chesterfield County,51041,35.4,31.4 - 49.8
+"VA, Wythe",2023,Virginia,VA,Wythe County,51197,35.3,31.4 - 49.8
+"VA, Arlington",2019,Virginia,VA,Arlington County,51013,35.2,31.4 - 49.8
+"VA, Suffolk City",2023,Virginia,VA,Suffolk city,51800,35.2,31.4 - 49.8
+"VA, Waynesboro City",2023,Virginia,VA,Waynesboro city,51820,34.9,31.4 - 49.8
+"VA, Fauquier",2019,Virginia,VA,Fauquier County,51061,34.8,31.4 - 49.8
+"VA, James City",2023,Virginia,VA,James City County,51095,34.8,31.4 - 49.8
+"VA, Nottoway",2019,Virginia,VA,Nottoway County,51135,34.8,31.4 - 49.8
+"VA, James City",2021,Virginia,VA,James City County,51095,34.5,31.4 - 49.8
+"VA, James City",2022,Virginia,VA,James City County,51095,34.4,31.4 - 49.8
+"VA, Petersburg City",2023,Virginia,VA,Petersburg city,51730,34.4,31.4 - 49.8
+"VA, Virginia Beach City",2021,Virginia,VA,Virginia Beach city,51810,34.4,31.4 - 49.8
+"VA, Pulaski",2021,Virginia,VA,Pulaski County,51155,34.2,31.4 - 49.8
+"VA, Gloucester",2019,Virginia,VA,Gloucester County,51073,33.9,31.4 - 49.8
+"VA, Augusta",2022,Virginia,VA,Augusta County,51015,33.8,31.4 - 49.8
+"VA, Hopewell City",2023,Virginia,VA,Hopewell city,51670,33.7,31.4 - 49.8
+"VA, Chesapeake City",2022,Virginia,VA,Chesapeake city,51550,33.6,31.4 - 49.8
+"VA, Page",2021,Virginia,VA,Page County,51139,33.5,31.4 - 49.8
+"VA, Pulaski",2022,Virginia,VA,Pulaski County,51155,33.4,31.4 - 49.8
+"VA, Smyth",2023,Virginia,VA,Smyth County,51173,33.4,31.4 - 49.8
+"VA, Amherst",2020,Virginia,VA,Amherst County,51009,33.3,31.4 - 49.8
+"VA, Amherst",2021,Virginia,VA,Amherst County,51009,33.3,31.4 - 49.8
+"VA, Albemarle",2021,Virginia,VA,Albemarle County,51003,33.2,31.4 - 49.8
+"VA, Arlington",2021,Virginia,VA,Arlington County,51013,33.1,31.4 - 49.8
+"VA, Pulaski",2023,Virginia,VA,Pulaski County,51155,32.6,31.4 - 49.8
+"VA, Wythe",2022,Virginia,VA,Wythe County,51197,32.6,31.4 - 49.8
+"VA, Fauquier",2020,Virginia,VA,Fauquier County,51061,32.4,31.4 - 49.8
+"VA, Hampton City",2019,Virginia,VA,Hampton city,51650,32.3,31.4 - 49.8
+"VA, Fauquier",2021,Virginia,VA,Fauquier County,51061,32,31.4 - 49.8
+"VA, Essex",2021,Virginia,VA,Essex County,51057,31.8,31.4 - 49.8
+"VA, Nottoway",2020,Virginia,VA,Nottoway County,51135,31.7,31.4 - 49.8
+"VA, Giles",2019,Virginia,VA,Giles County,51071,31.6,31.4 - 49.8
+"VA, Chesterfield",2022,Virginia,VA,Chesterfield County,51041,31.5,31.4 - 49.8
+"VA, Arlington",2020,Virginia,VA,Arlington County,51013,31.3,18.1 - 31.3
+"VA, Augusta",2023,Virginia,VA,Augusta County,51015,31.1,18.1 - 31.3
+"VA, Virginia Beach City",2022,Virginia,VA,Virginia Beach city,51810,31.1,18.1 - 31.3
+"VA, Spotsylvania",2019,Virginia,VA,Spotsylvania County,51177,30.9,18.1 - 31.3
+"VA, Bristol City",2021,Virginia,VA,Bristol city,51520,30.9,18.1 - 31.3
+"VA, Alleghany",2023,Virginia,VA,Alleghany County,51005,30.8,18.1 - 31.3
+"VA, Culpeper",2021,Virginia,VA,Culpeper County,51047,30.7,18.1 - 31.3
+"VA, Amherst",2019,Virginia,VA,Amherst County,51009,30.5,18.1 - 31.3
+"VA, Albemarle",2022,Virginia,VA,Albemarle County,51003,30.3,18.1 - 31.3
+"VA, Bristol City",2019,Virginia,VA,Bristol city,51520,30,18.1 - 31.3
+"VA, Chesapeake City",2023,Virginia,VA,Chesapeake city,51550,30,18.1 - 31.3
+"VA, Chesterfield",2023,Virginia,VA,Chesterfield County,51041,29.9,18.1 - 31.3
+"VA, Virginia Beach City",2023,Virginia,VA,Virginia Beach city,51810,29.6,18.1 - 31.3
+"VA, Falls Church City",2019,Virginia,VA,Falls Church city,51610,29.2,18.1 - 31.3
+"VA, Carroll",2022,Virginia,VA,Carroll County,51035,28.7,18.1 - 31.3
+"VA, Fauquier",2022,Virginia,VA,Fauquier County,51061,28.6,18.1 - 31.3
+"VA, Nottoway",2021,Virginia,VA,Nottoway County,51135,28.2,18.1 - 31.3
+"VA, Fauquier",2023,Virginia,VA,Fauquier County,51061,27.9,18.1 - 31.3
+"VA, Page",2023,Virginia,VA,Page County,51139,27.9,18.1 - 31.3
+"VA, Fairfax",2019,Virginia,VA,Fairfax County,51059,27.8,18.1 - 31.3
+"VA, Albemarle",2023,Virginia,VA,Albemarle County,51003,27.7,18.1 - 31.3
+"VA, Page",2022,Virginia,VA,Page County,51139,27.6,18.1 - 31.3
+"VA, Nottoway",2022,Virginia,VA,Nottoway County,51135,27.5,18.1 - 31.3
+"VA, Buena Vista City",2019,Virginia,VA,Buena Vista city,51530,27.4,18.1 - 31.3
+"VA, Arlington",2022,Virginia,VA,Arlington County,51013,27.2,18.1 - 31.3
+"VA, Hampton City",2020,Virginia,VA,Hampton city,51650,26.9,18.1 - 31.3
+"VA, Fairfax",2020,Virginia,VA,Fairfax County,51059,26.5,18.1 - 31.3
+"VA, Prince Edward",2019,Virginia,VA,Prince Edward County,51147,26.4,18.1 - 31.3
+"VA, Spotsylvania",2020,Virginia,VA,Spotsylvania County,51177,26.4,18.1 - 31.3
+"VA, Buena Vista City",2022,Virginia,VA,Buena Vista city,51530,26.4,18.1 - 31.3
+"VA, Giles",2020,Virginia,VA,Giles County,51071,26.3,18.1 - 31.3
+"VA, Charlotte",2021,Virginia,VA,Charlotte County,51037,26.2,18.1 - 31.3
+"VA, Charlotte",2020,Virginia,VA,Charlotte County,51037,26.1,18.1 - 31.3
+"VA, Essex",2023,Virginia,VA,Essex County,51057,26.1,18.1 - 31.3
+"VA, Charlotte",2019,Virginia,VA,Charlotte County,51037,25.2,18.1 - 31.3
+"VA, Fairfax",2021,Virginia,VA,Fairfax County,51059,25.2,18.1 - 31.3
+"VA, Hampton City",2021,Virginia,VA,Hampton city,51650,25.2,18.1 - 31.3
+"VA, Charlotte",2022,Virginia,VA,Charlotte County,51037,25,18.1 - 31.3
+"VA, Warren",2022,Virginia,VA,Warren County,51187,24.9,18.1 - 31.3
+"VA, Prince Edward",2021,Virginia,VA,Prince Edward County,51147,24.8,18.1 - 31.3
+"VA, Bristol City",2020,Virginia,VA,Bristol city,51520,24.7,18.1 - 31.3
+"VA, Buena Vista City",2020,Virginia,VA,Buena Vista city,51530,24.6,18.1 - 31.3
+"VA, Halifax",2019,Virginia,VA,Halifax County,51083,24.5,18.1 - 31.3
+"VA, Prince Edward",2022,Virginia,VA,Prince Edward County,51147,24.3,18.1 - 31.3
+"VA, Fairfax",2022,Virginia,VA,Fairfax County,51059,24.1,18.1 - 31.3
+"VA, Buena Vista City",2021,Virginia,VA,Buena Vista city,51530,24,18.1 - 31.3
+"VA, Hampton City",2022,Virginia,VA,Hampton city,51650,23.9,18.1 - 31.3
+"VA, Hampton City",2023,Virginia,VA,Hampton city,51650,23.9,18.1 - 31.3
+"VA, Spotsylvania",2022,Virginia,VA,Spotsylvania County,51177,23.7,18.1 - 31.3
+"VA, Warren",2021,Virginia,VA,Warren County,51187,23.7,18.1 - 31.3
+"VA, Arlington",2023,Virginia,VA,Arlington County,51013,23.4,18.1 - 31.3
+"VA, Fairfax",2023,Virginia,VA,Fairfax County,51059,23.4,18.1 - 31.3
+"VA, Charlotte",2023,Virginia,VA,Charlotte County,51037,23.3,18.1 - 31.3
+"VA, Spotsylvania",2021,Virginia,VA,Spotsylvania County,51177,23.3,18.1 - 31.3
+"VA, Nottoway",2023,Virginia,VA,Nottoway County,51135,23.1,18.1 - 31.3
+"VA, Bristol City",2022,Virginia,VA,Bristol city,51520,23.1,18.1 - 31.3
+"VA, Buena Vista City",2023,Virginia,VA,Buena Vista city,51530,23,18.1 - 31.3
+"VA, Giles",2021,Virginia,VA,Giles County,51071,22.9,18.1 - 31.3
+"VA, Shenandoah",2019,Virginia,VA,Shenandoah County,51171,22.4,18.1 - 31.3
+"VA, Culpeper",2020,Virginia,VA,Culpeper County,51047,22.1,18.1 - 31.3
+"VA, Essex",2022,Virginia,VA,Essex County,51057,22.1,18.1 - 31.3
+"VA, Prince Edward",2020,Virginia,VA,Prince Edward County,51147,21.9,18.1 - 31.3
+"VA, Falls Church City",2021,Virginia,VA,Falls Church city,51610,21.8,18.1 - 31.3
+"VA, Charles City",2021,Virginia,VA,Charles City County,51036,21.7,18.1 - 31.3
+"VA, Giles",2023,Virginia,VA,Giles County,51071,21.7,18.1 - 31.3
+"VA, York",2019,Virginia,VA,York County,51199,21.7,18.1 - 31.3
+"VA, Falls Church City",2020,Virginia,VA,Falls Church city,51610,21.7,18.1 - 31.3
+"VA, Alexandria City",2023,Virginia,VA,Alexandria city,51510,21.5,18.1 - 31.3
+"VA, Giles",2022,Virginia,VA,Giles County,51071,21.3,18.1 - 31.3
+"VA, Warren",2019,Virginia,VA,Warren County,51187,21.2,18.1 - 31.3
+"VA, Spotsylvania",2023,Virginia,VA,Spotsylvania County,51177,20.9,18.1 - 31.3
+"VA, Falls Church City",2022,Virginia,VA,Falls Church city,51610,20.8,18.1 - 31.3
+"VA, Charles City",2022,Virginia,VA,Charles City County,51036,20.7,18.1 - 31.3
+"VA, Nelson",2020,Virginia,VA,Nelson County,51125,20.5,18.1 - 31.3
+"VA, Falls Church City",2023,Virginia,VA,Falls Church city,51610,20.5,18.1 - 31.3
+"VA, Alexandria City",2021,Virginia,VA,Alexandria city,51510,20.4,18.1 - 31.3
+"VA, Alexandria City",2019,Virginia,VA,Alexandria city,51510,20.3,18.1 - 31.3
+"VA, Carroll",2023,Virginia,VA,Carroll County,51035,20.1,18.1 - 31.3
+"VA, Culpeper",2019,Virginia,VA,Culpeper County,51047,19.7,18.1 - 31.3
+"VA, Nelson",2019,Virginia,VA,Nelson County,51125,19.6,18.1 - 31.3
+"VA, Prince Edward",2023,Virginia,VA,Prince Edward County,51147,19.6,18.1 - 31.3
+"VA, York",2020,Virginia,VA,York County,51199,19.6,18.1 - 31.3
+"VA, Accomack",2019,Virginia,VA,Accomack County,51001,19.4,18.1 - 31.3
+"VA, Clarke",2019,Virginia,VA,Clarke County,51043,19.4,18.1 - 31.3
+"VA, Shenandoah",2020,Virginia,VA,Shenandoah County,51171,19.4,18.1 - 31.3
+"VA, Alexandria City",2020,Virginia,VA,Alexandria city,51510,19.4,18.1 - 31.3
+"VA, Orange",2019,Virginia,VA,Orange County,51137,19.3,18.1 - 31.3
+"VA, Rockingham",2023,Virginia,VA,Rockingham County,51165,19.3,18.1 - 31.3
+"VA, Culpeper",2022,Virginia,VA,Culpeper County,51047,18.8,18.1 - 31.3
+"VA, Nelson",2021,Virginia,VA,Nelson County,51125,18.8,18.1 - 31.3
+"VA, Accomack",2020,Virginia,VA,Accomack County,51001,18.7,18.1 - 31.3
+"VA, Orange",2020,Virginia,VA,Orange County,51137,18.7,18.1 - 31.3
+"VA, Stafford",2022,Virginia,VA,Stafford County,51179,18.7,18.1 - 31.3
+"VA, Accomack",2021,Virginia,VA,Accomack County,51001,18.6,18.1 - 31.3
+"VA, Stafford",2019,Virginia,VA,Stafford County,51179,18.6,18.1 - 31.3
+"VA, Alexandria City",2022,Virginia,VA,Alexandria city,51510,18.6,18.1 - 31.3
+"VA, Halifax",2021,Virginia,VA,Halifax County,51083,18.5,18.1 - 31.3
+"VA, Accomack",2022,Virginia,VA,Accomack County,51001,18.4,18.1 - 31.3
+"VA, Halifax",2020,Virginia,VA,Halifax County,51083,18.3,18.1 - 31.3
+"VA, Bedford",2023,Virginia,VA,Bedford County,51019,18.2,18.1 - 31.3
+"VA, Bedford",2019,Virginia,VA,Bedford County,51019,18.1,18.1 - 31.3
+"VA, Bedford",2021,Virginia,VA,Bedford County,51019,18.1,18.1 - 31.3
+"VA, Charles City",2023,Virginia,VA,Charles City County,51036,17.9,<18.1
+"VA, Halifax",2022,Virginia,VA,Halifax County,51083,17.9,<18.1
+"VA, Warren",2020,Virginia,VA,Warren County,51187,17.9,<18.1
+"VA, New Kent",2020,Virginia,VA,New Kent County,51127,17.8,<18.1
+"VA, Rockbridge",2019,Virginia,VA,Rockbridge County,51163,17.7,<18.1
+"VA, Loudoun",2019,Virginia,VA,Loudoun County,51107,17.4,<18.1
+"VA, Loudoun",2020,Virginia,VA,Loudoun County,51107,17.3,<18.1
+"VA, Prince William",2019,Virginia,VA,Prince William County,51153,17.3,<18.1
+"VA, Bath",2020,Virginia,VA,Bath County,51017,17.2,<18.1
+"VA, Bedford",2020,Virginia,VA,Bedford County,51019,17.2,<18.1
+"VA, Loudoun",2021,Virginia,VA,Loudoun County,51107,17.2,<18.1
+"VA, Stafford",2023,Virginia,VA,Stafford County,51179,17.2,<18.1
+"VA, York",2023,Virginia,VA,York County,51199,17.2,<18.1
+"VA, Loudoun",2022,Virginia,VA,Loudoun County,51107,17.1,<18.1
+"VA, York",2021,Virginia,VA,York County,51199,17,<18.1
+"VA, Appomattox",2020,Virginia,VA,Appomattox County,51011,16.9,<18.1
+"VA, Rockingham",2022,Virginia,VA,Rockingham County,51165,16.9,<18.1
+"VA, Clarke",2020,Virginia,VA,Clarke County,51043,16.8,<18.1
+"VA, Isle Of Wight",2022,Virginia,VA,Isle of Wight County,51093,16.8,<18.1
+"VA, York",2022,Virginia,VA,York County,51199,16.8,<18.1
+"VA, Franklin",2019,Virginia,VA,Franklin County,51067,16.6,<18.1
+"VA, Franklin",2020,Virginia,VA,Franklin County,51067,16.5,<18.1
+"VA, New Kent",2019,Virginia,VA,New Kent County,51127,16.5,<18.1
+"VA, Bedford",2022,Virginia,VA,Bedford County,51019,16.4,<18.1
+"VA, Grayson",2022,Virginia,VA,Grayson County,51077,16.4,<18.1
+"VA, Halifax",2023,Virginia,VA,Halifax County,51083,16.4,<18.1
+"VA, Accomack",2023,Virginia,VA,Accomack County,51001,16.3,<18.1
+"VA, Shenandoah",2022,Virginia,VA,Shenandoah County,51171,16.2,<18.1
+"VA, Stafford",2021,Virginia,VA,Stafford County,51179,16.2,<18.1
+"VA, Prince William",2020,Virginia,VA,Prince William County,51153,16.1,<18.1
+"VA, Rockingham",2021,Virginia,VA,Rockingham County,51165,16.1,<18.1
+"VA, Shenandoah",2023,Virginia,VA,Shenandoah County,51171,16.1,<18.1
+"VA, Grayson",2021,Virginia,VA,Grayson County,51077,16,<18.1
+"VA, Greene",2019,Virginia,VA,Greene County,51079,16,<18.1
+"VA, Bath",2019,Virginia,VA,Bath County,51017,15.9,<18.1
+"VA, Shenandoah",2021,Virginia,VA,Shenandoah County,51171,15.9,<18.1
+"VA, Loudoun",2023,Virginia,VA,Loudoun County,51107,15.8,<18.1
+"VA, Powhatan",2019,Virginia,VA,Powhatan County,51145,15.8,<18.1
+"VA, Warren",2023,Virginia,VA,Warren County,51187,15.8,<18.1
+"VA, Bath",2021,Virginia,VA,Bath County,51017,15.7,<18.1
+"VA, Grayson",2023,Virginia,VA,Grayson County,51077,15.5,<18.1
+"VA, Nelson",2022,Virginia,VA,Nelson County,51125,15.4,<18.1
+"VA, Orange",2021,Virginia,VA,Orange County,51137,15.4,<18.1
+"VA, Rockbridge",2022,Virginia,VA,Rockbridge County,51163,15.3,<18.1
+"VA, Rockbridge",2023,Virginia,VA,Rockbridge County,51163,15.2,<18.1
+"VA, Rockbridge",2021,Virginia,VA,Rockbridge County,51163,14.9,<18.1
+"VA, Orange",2022,Virginia,VA,Orange County,51137,14.7,<18.1
+"VA, Powhatan",2020,Virginia,VA,Powhatan County,51145,14.7,<18.1
+"VA, Powhatan",2022,Virginia,VA,Powhatan County,51145,14.6,<18.1
+"VA, New Kent",2021,Virginia,VA,New Kent County,51127,14.5,<18.1
+"VA, Rockbridge",2020,Virginia,VA,Rockbridge County,51163,14.5,<18.1
+"VA, New Kent",2022,Virginia,VA,New Kent County,51127,14.4,<18.1
+"VA, Powhatan",2023,Virginia,VA,Powhatan County,51145,14.4,<18.1
+"VA, Grayson",2020,Virginia,VA,Grayson County,51077,14.3,<18.1
+"VA, Powhatan",2021,Virginia,VA,Powhatan County,51145,14,<18.1
+"VA, Rockingham",2020,Virginia,VA,Rockingham County,51165,13.9,<18.1
+"VA, Orange",2023,Virginia,VA,Orange County,51137,13.8,<18.1
+"VA, Isle Of Wight",2019,Virginia,VA,Isle of Wight County,51093,13.6,<18.1
+"VA, Prince William",2021,Virginia,VA,Prince William County,51153,13.4,<18.1
+"VA, Culpeper",2023,Virginia,VA,Culpeper County,51047,13.3,<18.1
+"VA, Stafford",2020,Virginia,VA,Stafford County,51179,13.3,<18.1
+"VA, Clarke",2021,Virginia,VA,Clarke County,51043,13,<18.1
+"VA, Bath",2022,Virginia,VA,Bath County,51017,12.8,<18.1
+"VA, Nelson",2023,Virginia,VA,Nelson County,51125,12.8,<18.1
+"VA, Botetourt",2021,Virginia,VA,Botetourt County,51023,12.6,<18.1
+"VA, Greene",2020,Virginia,VA,Greene County,51079,12.6,<18.1
+"VA, New Kent",2023,Virginia,VA,New Kent County,51127,12.6,<18.1
+"VA, Isle Of Wight",2020,Virginia,VA,Isle of Wight County,51093,12.5,<18.1
+"VA, Franklin",2021,Virginia,VA,Franklin County,51067,12.4,<18.1
+"VA, Botetourt",2019,Virginia,VA,Botetourt County,51023,12.2,<18.1
+"VA, Charles City",2019,Virginia,VA,Charles City County,51036,12.2,<18.1
+"VA, Franklin",2022,Virginia,VA,Franklin County,51067,12.1,<18.1
+"VA, Mathews",2022,Virginia,VA,Mathews County,51115,12.1,<18.1
+"VA, Botetourt",2020,Virginia,VA,Botetourt County,51023,11.9,<18.1
+"VA, Goochland",2021,Virginia,VA,Goochland County,51075,11.7,<18.1
+"VA, Isle Of Wight",2021,Virginia,VA,Isle of Wight County,51093,11.7,<18.1
+"VA, Mathews",2023,Virginia,VA,Mathews County,51115,11.5,<18.1
+"VA, Bath",2023,Virginia,VA,Bath County,51017,11.3,<18.1
+"VA, Franklin",2023,Virginia,VA,Franklin County,51067,11.3,<18.1
+"VA, Botetourt",2023,Virginia,VA,Botetourt County,51023,11.1,<18.1
+"VA, Goochland",2020,Virginia,VA,Goochland County,51075,10.9,<18.1
+"VA, Prince William",2022,Virginia,VA,Prince William County,51153,10.9,<18.1
+"VA, Rappahannock",2019,Virginia,VA,Rappahannock County,51157,10.8,<18.1
+"VA, Grayson",2019,Virginia,VA,Grayson County,51077,10.6,<18.1
+"VA, Greene",2023,Virginia,VA,Greene County,51079,10.6,<18.1
+"VA, Botetourt",2022,Virginia,VA,Botetourt County,51023,10.5,<18.1
+"VA, Greene",2021,Virginia,VA,Greene County,51079,10.5,<18.1
+"VA, Floyd",2023,Virginia,VA,Floyd County,51063,10.4,<18.1
+"VA, Middlesex",2022,Virginia,VA,Middlesex County,51119,10.3,<18.1
+"VA, Prince William",2023,Virginia,VA,Prince William County,51153,10.3,<18.1
+"VA, Louisa",2019,Virginia,VA,Louisa County,51109,10,<18.1
+"VA, Brunswick",2023,Virginia,VA,Brunswick County,51025,9.5,<18.1
+"VA, Greene",2022,Virginia,VA,Greene County,51079,9.5,<18.1
+"VA, King William",2022,Virginia,VA,King William County,51101,9.5,<18.1
+"VA, Prince George",2019,Virginia,VA,Prince George County,51149,9.3,<18.1
+"VA, Floyd",2020,Virginia,VA,Floyd County,51063,9.2,<18.1
+"VA, King William",2020,Virginia,VA,King William County,51101,9.2,<18.1
+"VA, Goochland",2019,Virginia,VA,Goochland County,51075,9.1,<18.1
+"VA, King William",2021,Virginia,VA,King William County,51101,9.1,<18.1
+"VA, Clarke",2022,Virginia,VA,Clarke County,51043,9,<18.1
+"VA, Rappahannock",2023,Virginia,VA,Rappahannock County,51157,8.9,<18.1
+"VA, Louisa",2020,Virginia,VA,Louisa County,51109,8.8,<18.1
+"VA, Middlesex",2021,Virginia,VA,Middlesex County,51119,8.6,<18.1
+"VA, Appomattox",2022,Virginia,VA,Appomattox County,51011,8.5,<18.1
+"VA, Middlesex",2019,Virginia,VA,Middlesex County,51119,8.5,<18.1
+"VA, Appomattox",2021,Virginia,VA,Appomattox County,51011,8.4,<18.1
+"VA, Prince George",2020,Virginia,VA,Prince George County,51149,8.2,<18.1
+"VA, Floyd",2021,Virginia,VA,Floyd County,51063,8.1,<18.1
+"VA, Middlesex",2023,Virginia,VA,Middlesex County,51119,8.1,<18.1
+"VA, Prince George",2023,Virginia,VA,Prince George County,51149,8.1,<18.1
+"VA, Louisa",2021,Virginia,VA,Louisa County,51109,8,<18.1
+"VA, Louisa",2022,Virginia,VA,Louisa County,51109,8,<18.1
+"VA, Northumberland",2019,Virginia,VA,Northumberland County,51133,8,<18.1
+"VA, Brunswick",2022,Virginia,VA,Brunswick County,51025,7.8,<18.1
+"VA, Floyd",2019,Virginia,VA,Floyd County,51063,7.8,<18.1
+"VA, Goochland",2022,Virginia,VA,Goochland County,51075,7.8,<18.1
+"VA, Henry",2022,Virginia,VA,Henry County,51089,7.8,<18.1
+"VA, King William",2019,Virginia,VA,King William County,51101,7.8,<18.1
+"VA, Floyd",2022,Virginia,VA,Floyd County,51063,7.7,<18.1
+"VA, Lunenburg",2023,Virginia,VA,Lunenburg County,51111,7.7,<18.1
+"VA, Middlesex",2020,Virginia,VA,Middlesex County,51119,7.7,<18.1
+"VA, Northumberland",2020,Virginia,VA,Northumberland County,51133,7.7,<18.1
+"VA, Prince George",2021,Virginia,VA,Prince George County,51149,7.7,<18.1
+"VA, Henry",2023,Virginia,VA,Henry County,51089,7.6,<18.1
+"VA, Isle Of Wight",2023,Virginia,VA,Isle of Wight County,51093,7.6,<18.1
+"VA, Appomattox",2023,Virginia,VA,Appomattox County,51011,7.5,<18.1
+"VA, King George",2022,Virginia,VA,King George County,51099,7.5,<18.1
+"VA, Rockingham",2019,Virginia,VA,Rockingham County,51165,7.4,<18.1
+"VA, Fluvanna",2019,Virginia,VA,Fluvanna County,51065,7.3,<18.1
+"VA, Mathews",2021,Virginia,VA,Mathews County,51115,7.3,<18.1
+"VA, Brunswick",2021,Virginia,VA,Brunswick County,51025,7.2,<18.1
+"VA, Louisa",2023,Virginia,VA,Louisa County,51109,7.2,<18.1
+"VA, Pittsylvania",2019,Virginia,VA,Pittsylvania County,51143,7.1,<18.1
+"VA, Pittsylvania",2020,Virginia,VA,Pittsylvania County,51143,7.1,<18.1
+"VA, Brunswick",2020,Virginia,VA,Brunswick County,51025,7,<18.1
+"VA, King George",2021,Virginia,VA,King George County,51099,6.9,<18.1
+"VA, Northumberland",2022,Virginia,VA,Northumberland County,51133,6.9,<18.1
+"VA, Prince George",2022,Virginia,VA,Prince George County,51149,6.9,<18.1
+"VA, Charles City",2020,Virginia,VA,Charles City County,51036,6.8,<18.1
+"VA, King William",2023,Virginia,VA,King William County,51101,6.8,<18.1
+"VA, Lunenburg",2019,Virginia,VA,Lunenburg County,51111,6.8,<18.1
+"VA, Rappahannock",2020,Virginia,VA,Rappahannock County,51157,6.7,<18.1
+"VA, Rappahannock",2021,Virginia,VA,Rappahannock County,51157,6.6,<18.1
+"VA, Buckingham",2019,Virginia,VA,Buckingham County,51029,6.5,<18.1
+"VA, Lunenburg",2020,Virginia,VA,Lunenburg County,51111,6.5,<18.1
+"VA, Northumberland",2023,Virginia,VA,Northumberland County,51133,6.5,<18.1
+"VA, Pittsylvania",2021,Virginia,VA,Pittsylvania County,51143,6.5,<18.1
+"VA, Campbell",2019,Virginia,VA,Campbell County,51031,6.4,<18.1
+"VA, Fluvanna",2020,Virginia,VA,Fluvanna County,51065,6.4,<18.1
+"VA, Henry",2019,Virginia,VA,Henry County,51089,6.4,<18.1
+"VA, King George",2023,Virginia,VA,King George County,51099,6.4,<18.1
+"VA, Northumberland",2021,Virginia,VA,Northumberland County,51133,6.4,<18.1
+"VA, Rappahannock",2022,Virginia,VA,Rappahannock County,51157,6.4,<18.1
+"VA, Brunswick",2019,Virginia,VA,Brunswick County,51025,6.2,<18.1
+"VA, Clarke",2023,Virginia,VA,Clarke County,51043,6.1,<18.1
+"VA, Henry",2021,Virginia,VA,Henry County,51089,6.1,<18.1
+"VA, Goochland",2023,Virginia,VA,Goochland County,51075,6,<18.1
+"VA, Sussex",2019,Virginia,VA,Sussex County,51183,6,<18.1
+"VA, Lunenburg",2021,Virginia,VA,Lunenburg County,51111,5.9,<18.1
+"VA, Lunenburg",2022,Virginia,VA,Lunenburg County,51111,5.9,<18.1
+"VA, Fluvanna",2023,Virginia,VA,Fluvanna County,51065,5.7,<18.1
+"VA, Henry",2020,Virginia,VA,Henry County,51089,5.7,<18.1
+"VA, Poquoson City",2019,Virginia,VA,Poquoson city,51735,5.7,<18.1
+"VA, Fluvanna",2021,Virginia,VA,Fluvanna County,51065,5.4,<18.1
+"VA, Madison",2021,Virginia,VA,Madison County,51113,5.4,<18.1
+"VA, Campbell",2020,Virginia,VA,Campbell County,51031,5.2,<18.1
+"VA, King George",2020,Virginia,VA,King George County,51099,5,<18.1
+"VA, Madison",2022,Virginia,VA,Madison County,51113,5,<18.1
+"VA, Richmond",2019,Virginia,VA,Richmond County,51159,5,<18.1
+"VA, Sussex",2023,Virginia,VA,Sussex County,51183,5,<18.1
+"VA, Sussex",2020,Virginia,VA,Sussex County,51183,4.8,<18.1
+"VA, Sussex",2022,Virginia,VA,Sussex County,51183,4.8,<18.1
+"VA, Poquoson City",2020,Virginia,VA,Poquoson city,51735,4.8,<18.1
+"VA, Campbell",2021,Virginia,VA,Campbell County,51031,4.7,<18.1
+"VA, Campbell",2022,Virginia,VA,Campbell County,51031,4.7,<18.1
+"VA, Madison",2019,Virginia,VA,Madison County,51113,4.7,<18.1
+"VA, Madison",2020,Virginia,VA,Madison County,51113,4.7,<18.1
+"VA, Richmond",2023,Virginia,VA,Richmond County,51159,4.7,<18.1
+"VA, Poquoson City",2022,Virginia,VA,Poquoson city,51735,4.7,<18.1
+"VA, Sussex",2021,Virginia,VA,Sussex County,51183,4.6,<18.1
+"VA, Buckingham",2020,Virginia,VA,Buckingham County,51029,4.5,<18.1
+"VA, Buckingham",2021,Virginia,VA,Buckingham County,51029,4.5,<18.1
+"VA, Caroline",2021,Virginia,VA,Caroline County,51033,4.5,<18.1
+"VA, Craig",2019,Virginia,VA,Craig County,51045,4.5,<18.1
+"VA, Pittsylvania",2022,Virginia,VA,Pittsylvania County,51143,4.5,<18.1
+"VA, Westmoreland",2021,Virginia,VA,Westmoreland County,51193,4.5,<18.1
+"VA, Caroline",2019,Virginia,VA,Caroline County,51033,4.4,<18.1
+"VA, King George",2019,Virginia,VA,King George County,51099,4.4,<18.1
+"VA, Westmoreland",2020,Virginia,VA,Westmoreland County,51193,4.4,<18.1
+"VA, Poquoson City",2021,Virginia,VA,Poquoson city,51735,4.4,<18.1
+"VA, Frederick",2019,Virginia,VA,Frederick County,51069,4.3,<18.1
+"VA, Caroline",2020,Virginia,VA,Caroline County,51033,4.2,<18.1
+"VA, Fluvanna",2022,Virginia,VA,Fluvanna County,51065,4.2,<18.1
+"VA, Richmond",2021,Virginia,VA,Richmond County,51159,4.2,<18.1
+"VA, Pittsylvania",2023,Virginia,VA,Pittsylvania County,51143,4.1,<18.1
+"VA, Richmond",2020,Virginia,VA,Richmond County,51159,4.1,<18.1
+"VA, Poquoson City",2023,Virginia,VA,Poquoson city,51735,4.1,<18.1
+"VA, Buckingham",2022,Virginia,VA,Buckingham County,51029,4,<18.1
+"VA, Campbell",2023,Virginia,VA,Campbell County,51031,4,<18.1
+"VA, Richmond",2022,Virginia,VA,Richmond County,51159,4,<18.1
+"VA, Westmoreland",2019,Virginia,VA,Westmoreland County,51193,4,<18.1
+"VA, Southampton",2022,Virginia,VA,Southampton County,51175,3.7,<18.1
+"VA, Frederick",2020,Virginia,VA,Frederick County,51069,3.6,<18.1
+"VA, Buckingham",2023,Virginia,VA,Buckingham County,51029,3.5,<18.1
+"VA, Mathews",2020,Virginia,VA,Mathews County,51115,3.5,<18.1
+"VA, Westmoreland",2022,Virginia,VA,Westmoreland County,51193,3.4,<18.1
+"VA, Mathews",2019,Virginia,VA,Mathews County,51115,3.1,<18.1
+"VA, Caroline",2022,Virginia,VA,Caroline County,51033,2.9,<18.1
+"VA, Dinwiddie",2023,Virginia,VA,Dinwiddie County,51053,2.8,<18.1
+"VA, Southampton",2023,Virginia,VA,Southampton County,51175,2.8,<18.1
+"VA, Westmoreland",2023,Virginia,VA,Westmoreland County,51193,2.8,<18.1
+"VA, Amelia",2019,Virginia,VA,Amelia County,51007,2.7,<18.1
+"VA, Frederick",2022,Virginia,VA,Frederick County,51069,2.7,<18.1
+"VA, Frederick",2023,Virginia,VA,Frederick County,51069,2.7,<18.1
+"VA, Frederick",2021,Virginia,VA,Frederick County,51069,2.6,<18.1
+"VA, Madison",2023,Virginia,VA,Madison County,51113,2.6,<18.1
+"VA, Dinwiddie",2022,Virginia,VA,Dinwiddie County,51053,2.5,<18.1
+"VA, Highland",2022,Virginia,VA,Highland County,51091,2.4,<18.1
+"VA, Dinwiddie",2021,Virginia,VA,Dinwiddie County,51053,2.3,<18.1
+"VA, Southampton",2021,Virginia,VA,Southampton County,51175,2.3,<18.1
+"VA, Surry",2023,Virginia,VA,Surry County,51181,2.3,<18.1
+"VA, King And Queen",2019,Virginia,VA,King and Queen County,51097,2.2,<18.1
+"VA, Southampton",2019,Virginia,VA,Southampton County,51175,2.2,<18.1
+"VA, Dinwiddie",2020,Virginia,VA,Dinwiddie County,51053,2,<18.1
+"VA, Amelia",2021,Virginia,VA,Amelia County,51007,1.9,<18.1
+"VA, Caroline",2023,Virginia,VA,Caroline County,51033,1.8,<18.1
+"VA, Southampton",2020,Virginia,VA,Southampton County,51175,1.8,<18.1
+"VA, Amelia",2023,Virginia,VA,Amelia County,51007,1.7,<18.1
+"VA, Amelia",2020,Virginia,VA,Amelia County,51007,1.6,<18.1
+"VA, Amelia",2022,Virginia,VA,Amelia County,51007,1.5,<18.1
+"VA, Craig",2020,Virginia,VA,Craig County,51045,1.5,<18.1
+"VA, Greensville",2019,Virginia,VA,Greensville County,51081,1.5,<18.1
+"VA, Greensville",2020,Virginia,VA,Greensville County,51081,1.4,<18.1
+"VA, Greensville",2021,Virginia,VA,Greensville County,51081,1.4,<18.1
+"VA, Surry",2022,Virginia,VA,Surry County,51181,1.4,<18.1
+"VA, Dinwiddie",2019,Virginia,VA,Dinwiddie County,51053,1.3,<18.1
+"VA, Highland",2023,Virginia,VA,Highland County,51091,1.2,<18.1
+"VA, Surry",2019,Virginia,VA,Surry County,51181,1.2,<18.1
+"VA, Surry",2020,Virginia,VA,Surry County,51181,1.2,<18.1
+"VA, Greensville",2022,Virginia,VA,Greensville County,51081,1,<18.1
+"VA, Highland",2021,Virginia,VA,Highland County,51091,0.9,<18.1
+"VA, Surry",2021,Virginia,VA,Surry County,51181,0.9,<18.1
+"VA, Craig",2022,Virginia,VA,Craig County,51045,0.8,<18.1
+"VA, Craig",2023,Virginia,VA,Craig County,51045,0.8,<18.1
+"VA, Highland",2019,Virginia,VA,Highland County,51091,0.7,<18.1
+"VA, King And Queen",2020,Virginia,VA,King and Queen County,51097,0.5,<18.1
+"VA, Greensville",2023,Virginia,VA,Greensville County,51081,0.3,<18.1
+"VA, Highland",2020,Virginia,VA,Highland County,51091,0.3,<18.1
+"VA, Cumberland",2023,Virginia,VA,Cumberland County,51049,0.2,<18.1
+"VA, King And Queen",2021,Virginia,VA,King and Queen County,51097,0.2,<18.1
+"VA, Williamsburg City",2021,Virginia,VA,Williamsburg city,51830,0.2,<18.1
+"VA, Williamsburg City",2023,Virginia,VA,Williamsburg city,51830,0.2,<18.1
+"VA, Cumberland",2019,Virginia,VA,Cumberland County,51049,0.1,<18.1
+"VA, Cumberland",2022,Virginia,VA,Cumberland County,51049,0.1,<18.1
+"VA, Williamsburg City",2020,Virginia,VA,Williamsburg city,51830,0.1,<18.1
+"VA, Craig",2021,Virginia,VA,Craig County,51045,0,<18.1
+"VA, Cumberland",2021,Virginia,VA,Cumberland County,51049,0,<18.1
+"VA, Williamsburg City",2019,Virginia,VA,Williamsburg city,51830,0,<18.1
+"VA, Williamsburg City",2022,Virginia,VA,Williamsburg city,51830,0,<18.1
