@@ -102,7 +102,7 @@ The goal of Opioid Risk Radar is to serve not only as a **tool for early interve
 ---
 
 <p align="center">
-  <img src="Opioid%20Risk%20Radar%20Infographic.png" alt="Opioid Risk Radar Infographic" width="1100">
+  <img src="images/Opioid%20Risk%20Radar%20Infographic.png" alt="Opioid Risk Radar Infographic" width="1100">
 </p>
 
 <p align="center"><sub><em>Infographic created by the author using Canva.</em></sub></p>
