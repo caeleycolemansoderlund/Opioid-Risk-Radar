@@ -1,0 +1,537 @@
+﻿Data Updated Date,Overdose ED Visit Year and Quarter,Overdose ED Visit Months,Overdose ED Visit Drug Type,Overdose ED Visit Patient Geography Level,Overdose ED Visit Patient Geography Name,Overdose ED Visit Patient FIPS,Combined Locality,Overdose ED Visit Count,Overdose ED Visit Count Quarterly Trend,"Overdose ED Visit Rate per 10,000 visits","Overdose ED Visit Rate per 10,000 visits Quarterly Trend"
+5/10/2025,2025-Q1,"January, February, March",All Drug,State,Virginia,51,No,"3,824",▼ Decrease,38.1,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Heroin,State,Virginia,51,No,79,▼ Decrease,0.8,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,State,Virginia,51,No,"1,681",▼ Decrease,16.7,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,State,Virginia,51,No,208,► Stable,2.1,► Stable
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Accomack,51001,No,12,▼ Decrease,25.2,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Alexandria,51510,No,38,▲ Increase,34,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Amelia,51007,No,8,▲ Increase,37.6,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Amherst,51009,No,24,▼ Decrease,81.2,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Appomattox,51011,No,10,▲ Increase,67,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Arlington,51013,No,43,▼ Decrease,33,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Bath,51017,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Bedford,51019,No,30,▼ Decrease,41,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Bland,51021,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Botetourt,51023,No,15,▲ Increase,46.8,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Brunswick,51025,No,6,► Stable,23.7,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Buchanan,51027,No,19,▲ Increase,67.5,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Buckingham,51029,No,5,▼ Decrease,27,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Campbell,51031,No,22,▲ Increase,52.3,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Caroline,51033,No,17,▼ Decrease,34.4,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Carroll,51035,No,10,▼ Decrease,45.1,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Charles City,51036,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Charlotte,51037,No,6,► Stable,34.1,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Chesapeake,51550,No,88,▼ Decrease,32.6,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Clarke,51043,No,6,► Stable,42.3,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Craig,51045,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Culpeper,51047,No,27,▲ Increase,30.8,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Cumberland,51049,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Dickenson,51051,No,9,▲ Increase,40.3,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Dinwiddie,51053,No,8,► Stable,27.9,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Essex,51057,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Fauquier,51061,No,11,▼ Decrease,15.2,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Floyd,51063,No,5,▲ Increase,38.3,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Fluvanna,51065,No,10,▲ Increase,40.6,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Franklin County,51067,No,20,▼ Decrease,30.2,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Fredericksburg,51630,No,11,▼ Decrease,23.3,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Giles,51071,No,13,▲ Increase,44.4,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Gloucester,51073,No,15,▼ Decrease,28.7,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Goochland,51075,No,6,▼ Decrease,26.6,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Greene,51079,No,10,▲ Increase,29.6,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Halifax,51083,No,17,▼ Decrease,35.4,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Hampton,51650,No,73,▲ Increase,37.7,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Hanover,51085,No,35,▼ Decrease,30,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Henrico,51087,No,213,▼ Decrease,53.2,► Stable
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Highland,51091,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Isle of Wight,51093,No,16,▲ Increase,34.1,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,James City,51095,No,38,▼ Decrease,31.2,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,King and Queen,51097,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,King George,51099,No,5,▼ Decrease,17.3,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,King William,51101,No,7,▼ Decrease,29.7,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Lancaster,51103,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Lee,51105,No,14,▼ Decrease,41.4,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Loudoun,51107,No,90,▼ Decrease,27.8,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Louisa,51109,No,19,▼ Decrease,34.3,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Lunenburg,51111,No,6,▼ Decrease,49.5,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Lynchburg,51680,No,84,► Stable,84.3,► Stable
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Madison,51113,No,6,▲ Increase,40.8,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Mathews,51115,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Mecklenburg,51117,No,14,▼ Decrease,32.4,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Middlesex,51119,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Nelson,51125,No,10,▲ Increase,62.7,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,New Kent,51127,No,16,▲ Increase,43.8,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Newport News,51700,No,83,▼ Decrease,28.7,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Norfolk,51710,No,137,▼ Decrease,38.1,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Northampton,51131,No,5,▼ Decrease,29.1,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Northumberland,51133,No,7,▲ Increase,29.1,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Nottoway,51135,No,10,▼ Decrease,37.3,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Orange,51137,No,17,▼ Decrease,36,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Page,51139,No,11,▲ Increase,24.1,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Patrick,51141,No,8,▲ Increase,73.3,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Poquoson,51735,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Portsmouth,51740,No,109,▼ Decrease,58.2,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Powhatan,51145,No,17,▲ Increase,58,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Prince Edward,51147,No,7,▼ Decrease,16.7,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Pulaski,51155,No,28,▼ Decrease,49.3,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Rappahannock,51157,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Richmond City,51760,No,268,▼ Decrease,62.8,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Richmond County,51159,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Russell,51167,No,11,▼ Decrease,31.6,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Scott,51169,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Shenandoah,51171,No,20,▲ Increase,29.1,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Smyth,51173,No,22,▲ Increase,47.4,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Spotsylvania,51177,No,52,► Stable,24.3,► Stable
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Stafford,51179,No,43,▼ Decrease,26.1,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Suffolk,51800,No,29,▼ Decrease,18.4,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Surry,51181,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Sussex,51183,No,9,▼ Decrease,37.4,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Tazewell,51185,No,35,► Stable,61,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Virginia Beach,51810,No,171,▼ Decrease,33.7,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Warren,51187,No,26,▲ Increase,44.3,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Westmoreland,51193,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Williamsburg,51830,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Wythe,51197,No,18,▼ Decrease,33,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,York,51199,No,13,▼ Decrease,30.3,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Albemarle County and Charlottesville City,51003,Yes,47,▼ Decrease,33.4,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Albemarle County and Charlottesville City,51540,Yes,47,▼ Decrease,33.4,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Alleghany County and Covington City,51005,Yes,19,▲ Increase,41.1,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Alleghany County and Covington City,51580,Yes,19,▲ Increase,41.1,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,"Augusta County, Staunton City, and Waynesboro City",51015,Yes,73,▼ Decrease,43.4,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,"Augusta County, Staunton City, and Waynesboro City",51790,Yes,73,▼ Decrease,43.4,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,"Augusta County, Staunton City, and Waynesboro City",51820,Yes,73,▼ Decrease,43.4,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Chesterfield County and Colonial Heights City,51041,Yes,181,▼ Decrease,35.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Chesterfield County and Colonial Heights City,51570,Yes,181,▼ Decrease,35.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,"Fairfax County, Fairfax City, and Falls Church City",51059,Yes,317,▲ Increase,35.9,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,"Fairfax County, Fairfax City, and Falls Church City",51600,Yes,317,▲ Increase,35.9,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,"Fairfax County, Fairfax City, and Falls Church City",51610,Yes,317,▲ Increase,35.9,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Frederick County and Winchester City,51069,Yes,37,▼ Decrease,28.2,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Frederick County and Winchester City,51840,Yes,37,▼ Decrease,28.2,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Grayson County and Galax City,51077,Yes,21,▲ Increase,62.5,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Grayson County and Galax City,51640,Yes,21,▲ Increase,62.5,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Greensville County and Emporia City,51081,Yes,6,▼ Decrease,19.4,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Greensville County and Emporia City,51595,Yes,6,▼ Decrease,19.4,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Henry County and Martinsville City,51089,Yes,57,▼ Decrease,56,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Henry County and Martinsville City,51690,Yes,57,▼ Decrease,56,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Montgomery County and Radford City,51121,Yes,48,▲ Increase,47,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Montgomery County and Radford City,51750,Yes,48,▲ Increase,47,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Pittsylvania County and Danville City,51143,Yes,103,▲ Increase,60.5,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Pittsylvania County and Danville City,51590,Yes,103,▲ Increase,60.5,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,"Prince George County, Hopewell City, and Petersburg City",51149,Yes,104,▲ Increase,35.7,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,"Prince George County, Hopewell City, and Petersburg City",51670,Yes,104,▲ Increase,35.7,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,"Prince George County, Hopewell City, and Petersburg City",51730,Yes,104,▲ Increase,35.7,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,"Prince William County, Manassas City, and Manassas Park City",51153,Yes,125,▼ Decrease,26.2,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,"Prince William County, Manassas City, and Manassas Park City",51683,Yes,125,▼ Decrease,26.2,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,"Prince William County, Manassas City, and Manassas Park City",51685,Yes,125,▼ Decrease,26.2,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,"Roanoke County, Roanoke City, and Salem City",51161,Yes,165,▼ Decrease,47.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,"Roanoke County, Roanoke City, and Salem City",51770,Yes,165,▼ Decrease,47.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,"Roanoke County, Roanoke City, and Salem City",51775,Yes,165,▼ Decrease,47.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,"Rockbridge County, Buena Vista City, and Lexington City",51163,Yes,21,▲ Increase,45.6,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,"Rockbridge County, Buena Vista City, and Lexington City",51530,Yes,21,▲ Increase,45.6,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,"Rockbridge County, Buena Vista City, and Lexington City",51678,Yes,21,▲ Increase,45.6,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Rockingham County and Harrisonburg City,51165,Yes,56,▲ Increase,35.9,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Rockingham County and Harrisonburg City,51660,Yes,56,▲ Increase,35.9,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Southampton County and Franklin City,51175,Yes,13,▼ Decrease,24.6,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Southampton County and Franklin City,51620,Yes,13,▼ Decrease,24.6,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Washington County and Bristol City,51191,Yes,28,▲ Increase,60.4,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Washington County and Bristol City,51520,Yes,28,▲ Increase,60.4,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Wise County and Norton City,51195,Yes,38,▲ Increase,58.6,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",All Drug,Locality,Wise County and Norton City,51720,Yes,38,▲ Increase,58.6,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Accomack,51001,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Alexandria,51510,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Amelia,51007,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Amherst,51009,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Appomattox,51011,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Arlington,51013,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Bath,51017,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Bedford,51019,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Bland,51021,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Botetourt,51023,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Brunswick,51025,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Buchanan,51027,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Buckingham,51029,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Campbell,51031,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Caroline,51033,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Carroll,51035,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Charles City,51036,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Charlotte,51037,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Chesapeake,51550,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Clarke,51043,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Craig,51045,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Culpeper,51047,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Cumberland,51049,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Dickenson,51051,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Dinwiddie,51053,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Essex,51057,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Fauquier,51061,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Floyd,51063,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Fluvanna,51065,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Franklin County,51067,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Fredericksburg,51630,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Giles,51071,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Gloucester,51073,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Goochland,51075,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Greene,51079,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Halifax,51083,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Hampton,51650,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Hanover,51085,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Henrico,51087,No,5,▲ Increase,1.2,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Highland,51091,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Isle of Wight,51093,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,James City,51095,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,King and Queen,51097,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,King George,51099,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,King William,51101,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Lancaster,51103,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Lee,51105,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Loudoun,51107,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Louisa,51109,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Lunenburg,51111,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Lynchburg,51680,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Madison,51113,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Mathews,51115,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Mecklenburg,51117,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Middlesex,51119,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Nelson,51125,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,New Kent,51127,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Newport News,51700,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Norfolk,51710,No,10,▲ Increase,2.8,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Northampton,51131,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Northumberland,51133,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Nottoway,51135,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Orange,51137,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Page,51139,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Patrick,51141,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Poquoson,51735,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Portsmouth,51740,No,11,▼ Decrease,5.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Powhatan,51145,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Prince Edward,51147,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Pulaski,51155,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Rappahannock,51157,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Richmond City,51760,No,7,▼ Decrease,1.6,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Richmond County,51159,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Russell,51167,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Scott,51169,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Shenandoah,51171,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Smyth,51173,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Spotsylvania,51177,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Stafford,51179,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Suffolk,51800,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Surry,51181,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Sussex,51183,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Tazewell,51185,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Virginia Beach,51810,No,5,▼ Decrease,1,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Warren,51187,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Westmoreland,51193,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Williamsburg,51830,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Wythe,51197,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,York,51199,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Albemarle County and Charlottesville City,51003,Yes,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Albemarle County and Charlottesville City,51540,Yes,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Alleghany County and Covington City,51005,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Alleghany County and Covington City,51580,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,"Augusta County, Staunton City, and Waynesboro City",51015,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,"Augusta County, Staunton City, and Waynesboro City",51790,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,"Augusta County, Staunton City, and Waynesboro City",51820,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Chesterfield County and Colonial Heights City,51041,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Chesterfield County and Colonial Heights City,51570,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,"Fairfax County, Fairfax City, and Falls Church City",51059,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,"Fairfax County, Fairfax City, and Falls Church City",51600,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,"Fairfax County, Fairfax City, and Falls Church City",51610,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Frederick County and Winchester City,51069,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Frederick County and Winchester City,51840,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Grayson County and Galax City,51077,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Grayson County and Galax City,51640,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Greensville County and Emporia City,51081,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Greensville County and Emporia City,51595,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Henry County and Martinsville City,51089,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Henry County and Martinsville City,51690,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Montgomery County and Radford City,51121,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Montgomery County and Radford City,51750,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Pittsylvania County and Danville City,51143,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Pittsylvania County and Danville City,51590,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,"Prince George County, Hopewell City, and Petersburg City",51149,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,"Prince George County, Hopewell City, and Petersburg City",51670,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,"Prince George County, Hopewell City, and Petersburg City",51730,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,"Prince William County, Manassas City, and Manassas Park City",51153,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,"Prince William County, Manassas City, and Manassas Park City",51683,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,"Prince William County, Manassas City, and Manassas Park City",51685,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,"Roanoke County, Roanoke City, and Salem City",51161,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,"Roanoke County, Roanoke City, and Salem City",51770,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,"Roanoke County, Roanoke City, and Salem City",51775,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,"Rockbridge County, Buena Vista City, and Lexington City",51163,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,"Rockbridge County, Buena Vista City, and Lexington City",51530,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,"Rockbridge County, Buena Vista City, and Lexington City",51678,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Rockingham County and Harrisonburg City,51165,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Rockingham County and Harrisonburg City,51660,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Southampton County and Franklin City,51175,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Southampton County and Franklin City,51620,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Washington County and Bristol City,51191,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Washington County and Bristol City,51520,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Wise County and Norton City,51195,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Heroin,Locality,Wise County and Norton City,51720,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Accomack,51001,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Alexandria,51510,No,18,▲ Increase,16.1,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Amelia,51007,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Amherst,51009,No,17,▲ Increase,57.5,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Appomattox,51011,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Arlington,51013,No,25,▼ Decrease,19.2,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Bath,51017,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Bedford,51019,No,15,▼ Decrease,20.5,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Bland,51021,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Botetourt,51023,No,10,▲ Increase,31.2,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Brunswick,51025,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Buchanan,51027,No,8,▼ Decrease,28.4,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Buckingham,51029,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Campbell,51031,No,11,▲ Increase,26.2,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Caroline,51033,No,6,► Stable,12.1,► Stable
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Carroll,51035,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Charles City,51036,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Charlotte,51037,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Chesapeake,51550,No,44,▼ Decrease,16.3,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Clarke,51043,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Craig,51045,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Culpeper,51047,No,7,► Stable,8,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Cumberland,51049,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Dickenson,51051,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Dinwiddie,51053,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Essex,51057,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Fauquier,51061,No,5,▼ Decrease,6.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Floyd,51063,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Fluvanna,51065,No,5,▲ Increase,20.3,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Franklin County,51067,No,8,▼ Decrease,12.1,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Fredericksburg,51630,No,6,▼ Decrease,12.7,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Giles,51071,No,6,▲ Increase,20.5,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Gloucester,51073,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Goochland,51075,No,6,► Stable,26.6,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Greene,51079,No,5,▲ Increase,14.8,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Halifax,51083,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Hampton,51650,No,27,▼ Decrease,13.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Hanover,51085,No,12,▼ Decrease,10.3,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Henrico,51087,No,91,▼ Decrease,22.7,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Highland,51091,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Isle of Wight,51093,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,James City,51095,No,9,▼ Decrease,7.4,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,King and Queen,51097,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,King George,51099,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,King William,51101,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Lancaster,51103,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Lee,51105,No,9,▼ Decrease,26.6,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Loudoun,51107,No,36,▲ Increase,11.1,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Louisa,51109,No,10,▼ Decrease,18.1,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Lunenburg,51111,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Lynchburg,51680,No,43,▲ Increase,43.1,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Madison,51113,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Mathews,51115,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Mecklenburg,51117,No,6,▼ Decrease,13.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Middlesex,51119,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Nelson,51125,No,5,▲ Increase,31.3,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,New Kent,51127,No,6,► Stable,16.4,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Newport News,51700,No,39,▼ Decrease,13.5,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Norfolk,51710,No,49,▼ Decrease,13.6,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Northampton,51131,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Northumberland,51133,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Nottoway,51135,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Orange,51137,No,6,▼ Decrease,12.7,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Page,51139,No,7,▲ Increase,15.4,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Patrick,51141,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Poquoson,51735,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Portsmouth,51740,No,63,▼ Decrease,33.7,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Powhatan,51145,No,5,▼ Decrease,17.1,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Prince Edward,51147,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Pulaski,51155,No,13,▼ Decrease,22.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Rappahannock,51157,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Richmond City,51760,No,149,▼ Decrease,34.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Richmond County,51159,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Russell,51167,No,5,▼ Decrease,14.4,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Scott,51169,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Shenandoah,51171,No,9,▼ Decrease,13.1,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Smyth,51173,No,13,▲ Increase,28,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Spotsylvania,51177,No,15,▼ Decrease,7,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Stafford,51179,No,13,▲ Increase,7.9,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Suffolk,51800,No,14,▼ Decrease,8.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Surry,51181,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Sussex,51183,No,5,▼ Decrease,20.8,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Tazewell,51185,No,16,▲ Increase,27.9,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Virginia Beach,51810,No,70,▼ Decrease,13.8,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Warren,51187,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Westmoreland,51193,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Williamsburg,51830,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Wythe,51197,No,7,▲ Increase,12.8,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,York,51199,No,5,▼ Decrease,11.7,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Albemarle County and Charlottesville City,51003,Yes,17,▼ Decrease,12.1,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Albemarle County and Charlottesville City,51540,Yes,17,▼ Decrease,12.1,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Alleghany County and Covington City,51005,Yes,6,▲ Increase,13,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Alleghany County and Covington City,51580,Yes,6,▲ Increase,13,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,"Augusta County, Staunton City, and Waynesboro City",51015,Yes,26,▲ Increase,15.4,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,"Augusta County, Staunton City, and Waynesboro City",51790,Yes,26,▲ Increase,15.4,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,"Augusta County, Staunton City, and Waynesboro City",51820,Yes,26,▲ Increase,15.4,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Chesterfield County and Colonial Heights City,51041,Yes,80,▼ Decrease,15.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Chesterfield County and Colonial Heights City,51570,Yes,80,▼ Decrease,15.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,"Fairfax County, Fairfax City, and Falls Church City",51059,Yes,137,► Stable,15.5,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,"Fairfax County, Fairfax City, and Falls Church City",51600,Yes,137,► Stable,15.5,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,"Fairfax County, Fairfax City, and Falls Church City",51610,Yes,137,► Stable,15.5,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Frederick County and Winchester City,51069,Yes,15,▼ Decrease,11.4,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Frederick County and Winchester City,51840,Yes,15,▼ Decrease,11.4,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Grayson County and Galax City,51077,Yes,11,► Stable,32.7,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Grayson County and Galax City,51640,Yes,11,► Stable,32.7,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Greensville County and Emporia City,51081,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Greensville County and Emporia City,51595,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Henry County and Martinsville City,51089,Yes,23,▼ Decrease,22.6,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Henry County and Martinsville City,51690,Yes,23,▼ Decrease,22.6,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Montgomery County and Radford City,51121,Yes,21,▲ Increase,20.6,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Montgomery County and Radford City,51750,Yes,21,▲ Increase,20.6,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Pittsylvania County and Danville City,51143,Yes,40,▲ Increase,23.5,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Pittsylvania County and Danville City,51590,Yes,40,▲ Increase,23.5,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,"Prince George County, Hopewell City, and Petersburg City",51149,Yes,54,▲ Increase,18.5,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,"Prince George County, Hopewell City, and Petersburg City",51670,Yes,54,▲ Increase,18.5,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,"Prince George County, Hopewell City, and Petersburg City",51730,Yes,54,▲ Increase,18.5,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,"Prince William County, Manassas City, and Manassas Park City",51153,Yes,52,▼ Decrease,10.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,"Prince William County, Manassas City, and Manassas Park City",51683,Yes,52,▼ Decrease,10.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,"Prince William County, Manassas City, and Manassas Park City",51685,Yes,52,▼ Decrease,10.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,"Roanoke County, Roanoke City, and Salem City",51161,Yes,82,▼ Decrease,23.8,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,"Roanoke County, Roanoke City, and Salem City",51770,Yes,82,▼ Decrease,23.8,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,"Roanoke County, Roanoke City, and Salem City",51775,Yes,82,▼ Decrease,23.8,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,"Rockbridge County, Buena Vista City, and Lexington City",51163,Yes,11,▲ Increase,23.9,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,"Rockbridge County, Buena Vista City, and Lexington City",51530,Yes,11,▲ Increase,23.9,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,"Rockbridge County, Buena Vista City, and Lexington City",51678,Yes,11,▲ Increase,23.9,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Rockingham County and Harrisonburg City,51165,Yes,28,▲ Increase,18,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Rockingham County and Harrisonburg City,51660,Yes,28,▲ Increase,18,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Southampton County and Franklin City,51175,Yes,5,▼ Decrease,9.5,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Southampton County and Franklin City,51620,Yes,5,▼ Decrease,9.5,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Washington County and Bristol City,51191,Yes,16,▲ Increase,34.5,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Washington County and Bristol City,51520,Yes,16,▲ Increase,34.5,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Wise County and Norton City,51195,Yes,15,▼ Decrease,23.1,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Opioid,Locality,Wise County and Norton City,51720,Yes,15,▼ Decrease,23.1,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Accomack,51001,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Alexandria,51510,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Amelia,51007,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Amherst,51009,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Appomattox,51011,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Arlington,51013,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Bath,51017,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Bedford,51019,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Bland,51021,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Botetourt,51023,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Brunswick,51025,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Buchanan,51027,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Buckingham,51029,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Campbell,51031,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Caroline,51033,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Carroll,51035,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Charles City,51036,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Charlotte,51037,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Chesapeake,51550,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Clarke,51043,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Craig,51045,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Culpeper,51047,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Cumberland,51049,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Dickenson,51051,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Dinwiddie,51053,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Essex,51057,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Fauquier,51061,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Floyd,51063,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Fluvanna,51065,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Franklin County,51067,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Fredericksburg,51630,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Giles,51071,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Gloucester,51073,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Goochland,51075,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Greene,51079,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Halifax,51083,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Hampton,51650,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Hanover,51085,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Henrico,51087,No,15,▲ Increase,3.7,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Highland,51091,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Isle of Wight,51093,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,James City,51095,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,King and Queen,51097,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,King George,51099,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,King William,51101,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Lancaster,51103,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Lee,51105,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Loudoun,51107,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Louisa,51109,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Lunenburg,51111,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Lynchburg,51680,No,8,► Stable,8,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Madison,51113,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Mathews,51115,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Mecklenburg,51117,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Middlesex,51119,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Nelson,51125,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,New Kent,51127,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Newport News,51700,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Norfolk,51710,No,6,► Stable,1.7,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Northampton,51131,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Northumberland,51133,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Nottoway,51135,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Orange,51137,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Page,51139,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Patrick,51141,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Poquoson,51735,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Portsmouth,51740,No,7,▲ Increase,3.7,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Powhatan,51145,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Prince Edward,51147,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Pulaski,51155,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Rappahannock,51157,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Richmond City,51760,No,28,▼ Decrease,6.6,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Richmond County,51159,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Russell,51167,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Scott,51169,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Shenandoah,51171,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Smyth,51173,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Spotsylvania,51177,No,7,▲ Increase,3.3,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Stafford,51179,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Suffolk,51800,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Surry,51181,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Sussex,51183,No,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Tazewell,51185,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Virginia Beach,51810,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Warren,51187,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Westmoreland,51193,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Williamsburg,51830,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Wythe,51197,No,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,York,51199,No,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Albemarle County and Charlottesville City,51003,Yes,5,▲ Increase,3.5,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Albemarle County and Charlottesville City,51540,Yes,5,▲ Increase,3.5,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Alleghany County and Covington City,51005,Yes,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Alleghany County and Covington City,51580,Yes,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,"Augusta County, Staunton City, and Waynesboro City",51015,Yes,10,▼ Decrease,5.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,"Augusta County, Staunton City, and Waynesboro City",51790,Yes,10,▼ Decrease,5.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,"Augusta County, Staunton City, and Waynesboro City",51820,Yes,10,▼ Decrease,5.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Chesterfield County and Colonial Heights City,51041,Yes,7,▲ Increase,1.4,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Chesterfield County and Colonial Heights City,51570,Yes,7,▲ Increase,1.4,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,"Fairfax County, Fairfax City, and Falls Church City",51059,Yes,11,► Stable,1.2,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,"Fairfax County, Fairfax City, and Falls Church City",51600,Yes,11,► Stable,1.2,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,"Fairfax County, Fairfax City, and Falls Church City",51610,Yes,11,► Stable,1.2,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Frederick County and Winchester City,51069,Yes,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Frederick County and Winchester City,51840,Yes,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Grayson County and Galax City,51077,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Grayson County and Galax City,51640,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Greensville County and Emporia City,51081,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Greensville County and Emporia City,51595,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Henry County and Martinsville City,51089,Yes,10,▲ Increase,9.8,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Henry County and Martinsville City,51690,Yes,10,▲ Increase,9.8,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Montgomery County and Radford City,51121,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Montgomery County and Radford City,51750,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Pittsylvania County and Danville City,51143,Yes,15,▲ Increase,8.8,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Pittsylvania County and Danville City,51590,Yes,15,▲ Increase,8.8,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,"Prince George County, Hopewell City, and Petersburg City",51149,Yes,7,▲ Increase,2.4,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,"Prince George County, Hopewell City, and Petersburg City",51670,Yes,7,▲ Increase,2.4,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,"Prince George County, Hopewell City, and Petersburg City",51730,Yes,7,▲ Increase,2.4,▲ Increase
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,"Prince William County, Manassas City, and Manassas Park City",51153,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,"Prince William County, Manassas City, and Manassas Park City",51683,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,"Prince William County, Manassas City, and Manassas Park City",51685,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,"Roanoke County, Roanoke City, and Salem City",51161,Yes,10,▼ Decrease,2.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,"Roanoke County, Roanoke City, and Salem City",51770,Yes,10,▼ Decrease,2.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,"Roanoke County, Roanoke City, and Salem City",51775,Yes,10,▼ Decrease,2.9,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,"Rockbridge County, Buena Vista City, and Lexington City",51163,Yes,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,"Rockbridge County, Buena Vista City, and Lexington City",51530,Yes,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,"Rockbridge County, Buena Vista City, and Lexington City",51678,Yes,0,▼ Decrease,0,▼ Decrease
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Rockingham County and Harrisonburg City,51165,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Rockingham County and Harrisonburg City,51660,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Southampton County and Franklin City,51175,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Southampton County and Franklin City,51620,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Washington County and Bristol City,51191,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Washington County and Bristol City,51520,Yes,0,► Stable,0,► Stable
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Wise County and Norton City,51195,Yes,*,*,*,*
+5/10/2025,2025-Q1,"January, February, March",Stimulant,Locality,Wise County and Norton City,51720,Yes,*,*,*,*
