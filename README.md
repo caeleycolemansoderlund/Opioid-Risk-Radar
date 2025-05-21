@@ -58,7 +58,7 @@ The goal of Opioid Risk Radar is to serve not only as a **tool for early interve
 
 
 <p align="center">
-  <img src="Opioid%20CDC.png" alt="Opioid overdose trends" width="700">
+  <img src="images/CDC%20Three%20Waves%20of%20Opioid%20Overdose%20Deaths.png" alt="Opioid overdose trends" width="700">
 </p>
 
 <p align="center"><sub>
