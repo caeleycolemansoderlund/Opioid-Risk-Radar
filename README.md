@@ -9,7 +9,7 @@ Final project for the Building AI course<br>
 Reaktor, University of Helsinki, & Open University
 
 <p align="center">
-  <img src="Opioid%20Risk%20Radar.png" width="400">
+  <img src="images/Opioid%20Risk%20Radar.png" width="400">
 </p>
 <p align="center"><sub><em>Infographic created by the author using Canva.</em></sub></p>
 
